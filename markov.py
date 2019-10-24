@@ -1,6 +1,6 @@
 import random
 
-import ujson
+import json
 
 
 class Markov():
@@ -59,4 +59,4 @@ class Markov():
         return word
 
     def to_json(self, fp):
-        ujson.dump(self.corpus, fp)
+        json.dump(self.corpus, fp)
