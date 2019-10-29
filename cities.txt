@@ -8,11 +8,290 @@ Afghanistan,Kunduz
 Afghanistan,Mazari Sharif
 Afghanistan,Sheberghan
 Afghanistan,Taloqan
+Albania,Arap i Poshtëm
+Albania,Arap i Sipërm
+Albania,Arras
+Albania,Arrëmollë
+Albania,Arth
+Albania,Bahute
+Albania,Barbullej
+Albania,Bardhaj-Reç
+Albania,Batër e Madhe
+Albania,Batër e Vogël
+Albania,Baz
+Albania,Begjunec
+Albania,Bejnë
+Albania,Bel
+Albania,Bellovë
+Albania,Bllacë
+Albania,Bllatë e Poshtme
+Albania,Bllatë e Sipërme
+Albania,Blliçe
+Albania,Borie-Lurë
+Albania,Borovjan
+Albania,Boçevë
+Albania,Brest i Poshtëm
+Albania,Brest i Sipërm
+Albania,Brezhdan
+Albania,Bruç
+Albania,Bulaç
+Albania,Bulqizë
+Albania,Burgajet
+Albania,Burim
+Albania,Bushkash
+Albania,Bërshi
+Albania,Ceren
+Albania,Cerjan
+Albania,Cerrujë
+Albania,Cetush
+Albania,Dars
+Albania,Dej Macukull
+Albania,Derjan
+Albania,Deshat
+Albania,Dohoshisht
+Albania,Dom
+Albania,Dovolan
+Albania,Dragua
+Albania,Draj-Reç
+Albania,Drita
+Albania,Dukagjin
 Albania,Durrës
+Albania,Dushaj
+Albania,Dypjakë
 Albania,Elbasan
+Albania,Erebarë
+Albania,Frankth
+Albania,Fshat
+Albania,Fshati Burrel
+Albania,Fullqet
+Albania,Fushë e Vogël
+Albania,Fushë-Baz
+Albania,Fushë-Bulqizë
+Albania,Fushë-Kastriot
+Albania,Fushë-Lurë
+Albania,Fushë-Muhurr
+Albania,Fushë-Çidhën
+Albania,German
+Albania,Gjalish
+Albania,Gjinovec
+Albania,Gjon
+Albania,Gjoricë e Poshtme
+Albania,Gjoricë e Sipërme
+Albania,Gjoçaj
+Albania,Gjuras
+Albania,Godvi
+Albania,Gradec
+Albania,Grevë
+Albania,Grezhdan
+Albania,Grykë Nokë
+Albania,Gur i Bardhë
+Albania,Gur i Zi
+Albania,Gur-Reç
+Albania,Gurrë e Madhe
+Albania,Gurrë e Vogël
+Albania,Gurë-Lurë
+Albania,Herbel
+Albania,Homesh
+Albania,Hotesh
+Albania,Hurdhë-Muhurr
+Albania,Hurdhë-Reç
+Albania,Ilnicë
+Albania,Kacni
+Albania,Kallë
+Albania,Kandër
+Albania,Karicë
+Albania,Kastriot
+Albania,Katund i Ri
+Albania,Katund i Vogël
+Albania,Ketë
+Albania,Kishavec
+Albania,Klenjë
+Albania,Kllobçisht
+Albania,Klos Katund
+Albania,Kodër Leshaj
+Albania,Kodër Qerre
+Albania,Kojavec
+Albania,Kokërdhok
+Albania,Komsi
+Albania,Kovashicë
+Albania,Koçaj
+Albania,Kraj-Reç
+Albania,Krajkë
+Albania,Krastë
+Albania,Krej-Lurë
+Albania,Kujtim
+Albania,Kukaj
+Albania,Kullas
+Albania,Kurdari
+Albania,Kurqelaj
+Albania,Kërçisht i Poshtëm
+Albania,Kërçisht i Sipërm
+Albania,Lam i Madh
+Albania,Lashkizë
+Albania,Lazrej
+Albania,Laç
+Albania,Laçe
+Albania,Lejçan
+Albania,Lenë
+Albania,Limjan
+Albania,Lis
+Albania,Lishan i Poshtëm
+Albania,Lishan i Sipërm
+Albania,Lladomericë
+Albania,Lubalesh
+Albania,Lugjej
+Albania,Lukan
+Albania,Lundre
+Albania,Lurë e Vjetër
+Albania,Macukull
+Albania,Madhesh
+Albania,Majtarë
+Albania,Mallunxë
+Albania,Maqellarë
+Albania,Mazhicë
+Albania,Melan
+Albania,Menesh
+Albania,Midhë
+Albania,Mishtër
+Albania,Muhurr
+Albania,Murrë
+Albania,Mustafe
+Albania,Mëlcu
+Albania,Ndërfushas
+Albania,Ndërshenë
+Albania,Nezhaj
+Albania,Okshatinë
+Albania,Okshtun i Madh
+Albania,Okshtun i Vogël
+Albania,Oreshnjë
+Albania,Orzhanovë
+Albania,Ostren i Madh
+Albania,Ostren i Vogël
+Albania,Palaman
+Albania,Pasinkë
+Albania,Patin
+Albania,Pejkë
+Albania,Peladhi
+Albania,Peshk
+Albania,Pesjak
+Albania,Petralbë
+Albania,Pilafe
+Albania,Pjeçë
+Albania,Plani i Bardhë
+Albania,Pleshë
+Albania,Ploshtan
+Albania,Pocest
+Albania,Podgorc
+Albania,Pollozhan
+Albania,Popinar
+Albania,Pregj-Lurë
+Albania,Prellë
+Albania,Përgjegje
+Albania,Qa
+Albania,Qafdraj
+Albania,Qafë-Murrë
+Albania,Rabdisht
+Albania,Radomirë
+Albania,Radovesh
+Albania,Rrashnapojë
+Albania,Rremull
+Albania,Rrenz
+Albania,Rreth Baz
+Albania,Rreth-Kale
+Albania,Rripë
+Albania,Rukaj
+Albania,Selane
+Albania,Selishtë
+Albania,Selishtë e Sipërme
+Albania,Selixë
+Albania,Shimçan
+Albania,Shkallë
 Albania,Shkodër
+Albania,Shoshaj
+Albania,Shqath
+Albania,Shqefën
+Albania,Shtushaj
+Albania,Shulbatër
+Albania,Shullan
+Albania,Shumbat
+Albania,Shupenzë
+Albania,Shëlli
+Albania,Shëngjun
+Albania,Shënlleshën
+Albania,Sinë
+Albania,Sinë e Sipërme
+Albania,Skënderaj
+Albania,Sllatinë
+Albania,Sllovë
+Albania,Smollik
+Albania,Sofraçan
+Albania,Sohodoll
+Albania,Sohodoll i Vogël
+Albania,Sopot
+Albania,Soricë
+Albania,Staravec
+Albania,Stavec
+Albania,Stojan
+Albania,Strikçan
+Albania,Sumej
+Albania,Suç
+Albania,Tartaj
+Albania,Tejzë
+Albania,Tharkë
 Albania,Tirana
+Albania,Tomin
+Albania,Topojan
+Albania,Trebisht-Balaj
+Albania,Trebisht-Mucinë
+Albania,Trebisht-Çelebi
+Albania,Trenë
+Albania,Trepçë
+Albania,Trojak
+Albania,Tuçep
+Albania,Tërbaç
+Albania,Tërnovë e Madhe
+Albania,Tërnovë e Vogël
+Albania,Ujëmirë
+Albania,Unjate
+Albania,Urakë
+Albania,Urxallë
+Albania,Ushtelenxë
+Albania,Vajkal
+Albania,Vajmëdhej
+Albania,Vakuf
+Albania,Val
+Albania,Valikardhë
+Albania,Vasie
+Albania,Venisht
+Albania,Vig
+Albania,Vinjoll
+Albania,Viçisht
+Albania,Vlashaj
+Albania,Vlashej
+Albania,Vleshë
 Albania,Vlorë
+Albania,Vojnik
+Albania,Vrenjt
+Albania,Vërnicë
+Albania,Xibër Hane
+Albania,Xibër Murriz
+Albania,Zagrad
+Albania,Zall-Dardhë
+Albania,Zall-Gjoçaj
+Albania,Zall-Kalis
+Albania,Zall-Reç
+Albania,Zall-Shoshaj
+Albania,Zall-Sopot
+Albania,Zall-Strikçan
+Albania,Zdojan
+Albania,Zenisht
+Albania,Zerqan
+Albania,Zimur
+Albania,Zogjaj
+Albania,Çerenec i Poshtëm
+Albania,Çerenec i Sipërm
+Albania,Çernen
+Albania,Çidhën
 Algeria,Ain Beida
 Algeria,Algiers
 Algeria,Annaba
@@ -157,15 +436,552 @@ Belarus,Orsha
 Belarus,Pinsk
 Belarus,Salihorsk
 Belarus,Vitebsk
+Belgium,Aalter
+Belgium,Aarschot
+Belgium,Aartselaar
+Belgium,Affligem
+Belgium,Alken
+Belgium,Alveringem
+Belgium,Amel
+Belgium,Andenne
 Belgium,Anderlecht
+Belgium,Anderlues
+Belgium,Anhée
+Belgium,Ans
+Belgium,Anthisnes
+Belgium,Antoing
 Belgium,Antwerp
+Belgium,Anzegem
+Belgium,Ardooie
+Belgium,Arendonk
+Belgium,Arlon
+Belgium,As
+Belgium,Asse
+Belgium,Assenede
+Belgium,Assesse
+Belgium,Ath
+Belgium,Attert
+Belgium,Aubange
+Belgium,Aubel
+Belgium,Avelgem
+Belgium,Awans
+Belgium,Aywaille
+Belgium,Baarle-Hertog
+Belgium,Balen
+Belgium,Bassenge
+Belgium,Bastogne
+Belgium,Beaumont
+Belgium,Beauraing
+Belgium,Beauvechain
+Belgium,Beernem
+Belgium,Beerse
+Belgium,Beersel
+Belgium,Begijnendijk
+Belgium,Bekkevoort
+Belgium,Belœil
+Belgium,Beringen
+Belgium,Berlaar
+Belgium,Berlare
+Belgium,Berloz
+Belgium,Bernissart
+Belgium,Bertem
+Belgium,Bertogne
+Belgium,Bertrix
+Belgium,Bever
+Belgium,Beveren
+Belgium,Beyne-Heusay
+Belgium,Bierbeek
+Belgium,Bilzen
+Belgium,Binche
+Belgium,Bièvre
+Belgium,Blankenberge
+Belgium,Blegny
+Belgium,Bocholt
+Belgium,Boechout
+Belgium,Bonheiden
+Belgium,Boom
+Belgium,Boortmeerbeek
+Belgium,Borgloon
+Belgium,Bornem
+Belgium,Borsbeek
+Belgium,Bouillon
+Belgium,Boussu
+Belgium,Boutersem
+Belgium,Braine-l'Alleud
+Belgium,Braine-le-Château
+Belgium,Braine-le-Comte
+Belgium,Braives
+Belgium,Brakel
+Belgium,Brasschaat
+Belgium,Brecht
+Belgium,Bredene
+Belgium,Bree
+Belgium,Brugelette
 Belgium,Bruges
+Belgium,Brunehaut
 Belgium,Brussels
+Belgium,Buggenhout
+Belgium,Burdinne
+Belgium,Burg-Reuland
+Belgium,Büllingen
+Belgium,Bütgenbach
+Belgium,Cerfontaine
+Belgium,Chapelle-lez-Herlaimont
 Belgium,Charleroi
+Belgium,Chastre
+Belgium,Chaudfontaine
+Belgium,Chaumont-Gistoux
+Belgium,Chimay
+Belgium,Chiny
+Belgium,Chièvres
+Belgium,Châtelet
+Belgium,Ciney
+Belgium,Clavier
+Belgium,Colfontaine
+Belgium,Comblain-au-Pont
+Belgium,Comines-Warneton
+Belgium,Courcelles
+Belgium,Court-Saint-Étienne
+Belgium,Couvin
+Belgium,Crisnée
+Belgium,Damme
+Belgium,Daverdisse
+Belgium,De Haan
+Belgium,De Panne
+Belgium,De Pinte
+Belgium,Deerlijk
+Belgium,Deinze
+Belgium,Denderleeuw
+Belgium,Dendermonde
+Belgium,Dentergem
+Belgium,Dessel
+Belgium,Destelbergen
+Belgium,Diepenbeek
+Belgium,Diest
+Belgium,Diksmuide
+Belgium,Dilbeek
+Belgium,Dilsen-Stokkem
+Belgium,Dinant
+Belgium,Dison
+Belgium,Doische
+Belgium,Donceel
+Belgium,Dour
+Belgium,Drogenbos
+Belgium,Duffel
+Belgium,Durbuy
+Belgium,Edegem
+Belgium,Eeklo
+Belgium,EghezéeEllezelles
+Belgium,Enghien
+Belgium,Engis
+Belgium,ErezéeErquelinnes
+Belgium,Erpe-Mere
+Belgium,Esneux
+Belgium,Essen
+Belgium,Estaimpuis
+Belgium,Estinnes
+Belgium,Eupen
+Belgium,Evergem
+Belgium,Farciennes
+Belgium,Fauvillers
+Belgium,Fernelmont
+Belgium,Ferrières
+Belgium,Fexhe-le-Haut-Clocher
+Belgium,Fleurus
+Belgium,Flobecq
+Belgium,Floreffe
+Belgium,Florennes
+Belgium,Florenville
+Belgium,Flémalle
+Belgium,Fléron
+Belgium,Fontaine-l'EvêqueFosses-la-Ville
+Belgium,Frameries
+Belgium,Frasnes-lez-Anvaing
+Belgium,Froidchapelle
+Belgium,Galmaarden
+Belgium,Gavere
+Belgium,Geel
+Belgium,Geer
+Belgium,Geetbets
+Belgium,Gembloux
+Belgium,Genappe
+Belgium,Genk
+Belgium,Geraardsbergen
+Belgium,Gerpinnes
+Belgium,Gesves
 Belgium,Ghent
+Belgium,Gingelom
+Belgium,Gistel
+Belgium,Glabbeek
+Belgium,Gooik
+Belgium,Gouvy
+Belgium,Grez-Doiceau
+Belgium,Grimbergen
+Belgium,Grobbendonk
+Belgium,Grâce-Hollogne
+Belgium,Haacht
+Belgium,Haaltert
+Belgium,Halen
+Belgium,Halle
+Belgium,Ham
+Belgium,Ham-sur-Heure-Nalinnes
+Belgium,Hamme
+Belgium,Hamoir
+Belgium,Hamois
+Belgium,Hamont-Achel
+Belgium,Hannut
+Belgium,Harelbeke
+Belgium,Hasselt
+Belgium,Hastière
+Belgium,Havelange
+Belgium,Hechtel-Eksel
+Belgium,Heers
+Belgium,Heist-op-den-Berg
+Belgium,Hemiksem
+Belgium,Hensies
+Belgium,Herbeumont
+Belgium,Herent
+Belgium,Herentals
+Belgium,Herenthout
+Belgium,Herk-de-Stad
+Belgium,Herne
+Belgium,Herselt
+Belgium,Herstal
+Belgium,Herstappe
+Belgium,Herve
+Belgium,Herzele
+Belgium,Heusden-Zolder
+Belgium,Heuvelland
+Belgium,Hoegaarden
+Belgium,Hoeilaart
+Belgium,Hoeselt
+Belgium,Holsbeek
+Belgium,Honnelles
+Belgium,Hooglede
+Belgium,Hoogstraten
+Belgium,Horebeke
+Belgium,Hotton
+Belgium,Houffalize
+Belgium,Houthalen-Helchteren
+Belgium,Houthulst
+Belgium,Houyet
+Belgium,Hove
+Belgium,Huldenberg
+Belgium,Hulshout
+Belgium,Huy
+Belgium,Hélécine
+Belgium,Héron
+Belgium,Ichtegem
+Belgium,Ingelmunster
+Belgium,Ittre
+Belgium,Izegem
+Belgium,Jabbeke
+Belgium,Jemeppe-sur-Sambre
+Belgium,Jodoigne
+Belgium,Juprelle
+Belgium,Jurbise
+Belgium,Kalmthout
+Belgium,Kampenhout
+Belgium,Kapelle-op-den-Bos
+Belgium,Kapellen
+Belgium,Kaprijke
+Belgium,Kasterlee
+Belgium,Keerbergen
+Belgium,Kinrooi
+Belgium,Kluisbergen
+Belgium,Knesselare
+Belgium,Knokke-Heist
+Belgium,Koekelare
+Belgium,Koksijde
+Belgium,Kontich
+Belgium,Kortemark
+Belgium,Kortenaken
+Belgium,Kortenberg
+Belgium,Kortessem
+Belgium,Kortrijk
+Belgium,Kraainem
+Belgium,Kruibeke
+Belgium,Kruishoutem
+Belgium,Kuurne
+Belgium,La Hulpe
+Belgium,La Louvière
+Belgium,La Roche-en-Ardenne
+Belgium,Laakdal
+Belgium,Laarne
+Belgium,Lanaken
+Belgium,Landen
+Belgium,Langemark-Poelkapelle
+Belgium,Lasne
+Belgium,Le Rœulx
+Belgium,Lebbeke
+Belgium,Lede
+Belgium,Ledegem
+Belgium,Lendelede
+Belgium,Lennik
+Belgium,Lens
+Belgium,Leopoldsburg
+Belgium,Les Bons Villers
+Belgium,Lessines
+Belgium,Leuven
+Belgium,Leuze-en-Hainaut
+Belgium,Libin
+Belgium,Libramont-Chevigny
+Belgium,Lichtervelde
+Belgium,Liedekerke
+Belgium,Lier
+Belgium,Lierde
+Belgium,Lierneux
+Belgium,Lille
+Belgium,Limbourg
+Belgium,Lincent
+Belgium,Linkebeek
+Belgium,Lint
+Belgium,Linter
 Belgium,Liège
+Belgium,Lo-Reninge
+Belgium,Lobbes
+Belgium,Lochristi
+Belgium,Lokeren
+Belgium,Lommel
+Belgium,Londerzeel
+Belgium,Lontzen
+Belgium,Lovendegem
+Belgium,Lubbeek
+Belgium,Lummen
+Belgium,Léglise
+Belgium,Maarkedal
+Belgium,Maaseik
+Belgium,Maasmechelen
+Belgium,Machelen
+Belgium,Maldegem
+Belgium,Malle
+Belgium,Manage
+Belgium,Manhay
+Belgium,Marche-en-Famenne
+Belgium,Marchin
+Belgium,Martelange
+Belgium,Mechelen
+Belgium,Meerhout
+Belgium,Meeuwen-Gruitrode
+Belgium,Meise
+Belgium,Meix-devant-Virton
+Belgium,Melle
+Belgium,Menen
+Belgium,Merbes-le-Château
+Belgium,Merchtem
+Belgium,Merelbeke
+Belgium,Merksplas
+Belgium,Mesen
+Belgium,Messancy
+Belgium,Mettet
+Belgium,Meulebeke
+Belgium,Middelkerke
+Belgium,Modave
+Belgium,Moerbeke-WaasMol
+Belgium,Momignies
+Belgium,Mons
+Belgium,Mont-Saint-Guibert
+Belgium,Mont-de-l'Enclus
+Belgium,Montigny-le-Tilleul
+Belgium,Moorslede
+Belgium,Morlanwelz
+Belgium,Mortsel
+Belgium,Mouscron
+Belgium,Musson
 Belgium,Namur
+Belgium,Nandrin
+Belgium,Nassogne
+Belgium,Nazareth
+Belgium,Neerpelt
+Belgium,Neufchâteau
+Belgium,Neupré
+Belgium,Nevele
+Belgium,Niel
+Belgium,Nieuwerkerken
+Belgium,Nieuwpoort
+Belgium,Nijlen
+Belgium,Ninove
+Belgium,Nivelles
+Belgium,Olen
+Belgium,Olne
+Belgium,Onhaye
+Belgium,Oosterzele
+Belgium,Oostkamp
+Belgium,Oostrozebeke
+Belgium,Opglabbeek
+Belgium,Opwijk
+Belgium,Oreye
+Belgium,Orp-Jauche
+Belgium,Ostend
+Belgium,Ottignies-Louvain-la-Neuve
+Belgium,Oud-Heverlee
+Belgium,Oud-Turnhout
+Belgium,Oudenaarde
+Belgium,Oudenburg
+Belgium,Ouffet
+Belgium,Oupeye
+Belgium,Overijse
+Belgium,Overpelt
+Belgium,Pecq
+Belgium,Peer
+Belgium,Pepingen
+Belgium,Pepinster
+Belgium,Perwez
+Belgium,Philippeville
+Belgium,Pittem
+Belgium,Plombières
+Belgium,Pont-à-Celles
+Belgium,Poperinge
+Belgium,Profondeville
+Belgium,Putte
+Belgium,Puurs
+Belgium,Péruwelz
+Belgium,Quiévrain
+Belgium,Quévy
+Belgium,Raeren
+Belgium,Ranst
+Belgium,Ravels
+Belgium,Rebecq
+Belgium,Remicourt
+Belgium,Rendeux
+Belgium,Retie
+Belgium,Riemst
+Belgium,Rijkevorsel
+Belgium,Rixensart
+Belgium,Rochefort
+Belgium,Roeselare
+Belgium,Ronse
+Belgium,Roosdaal
+Belgium,Rotselaar
+Belgium,Rouvroy
+Belgium,Ruiselede
+Belgium,Rumes
+Belgium,Rumst
+Belgium,Saint-Georges-sur-Meuse
+Belgium,Saint-Ghislain
+Belgium,Saint-Hubert
+Belgium,Saint-Léger
+Belgium,Saint-Nicolas
+Belgium,Sambreville
+Belgium,Sankt-Vith
 Belgium,Schaerbeek
+Belgium,Schelle
+Belgium,Scherpenheuvel-Zichem
+Belgium,Schilde
+Belgium,Schoten
+Belgium,Seneffe
+Belgium,Seraing
+Belgium,Silly
+Belgium,Sint-Amands
+Belgium,Sint-Genesius-Rode
+Belgium,Sint-Gillis-Waas
+Belgium,Sint-Katelijne-Waver
+Belgium,Sint-Laureins
+Belgium,Sint-Lievens-Houtem
+Belgium,Sint-Martens-Latem
+Belgium,Sint-Niklaas
+Belgium,Sint-Pieters-Leeuw
+Belgium,Sint-Truiden
+Belgium,Sivry-Rance
+Belgium,Soignies
+Belgium,Sombreffe
+Belgium,Somme-Leuze
+Belgium,Soumagne
+Belgium,Spa
+Belgium,Spiere-Helkijn
+Belgium,Sprimont
+Belgium,Stabroek
+Belgium,Staden
+Belgium,Stavelot
+Belgium,Steenokkerzeel
+Belgium,Stekene
+Belgium,Stoumont
+Belgium,Temse
+Belgium,Tenneville
+Belgium,Ternat
+Belgium,Tervuren
+Belgium,Tessenderlo
+Belgium,The 
+Belgium,Theux
+Belgium,Thimister-Clermont
+Belgium,Thuin
+Belgium,Tielt
+Belgium,Tielt-Winge
+Belgium,Tienen
+Belgium,Tinlot
+Belgium,Tintigny
+Belgium,Tongeren
+Belgium,Torhout
+Belgium,Tournai
+Belgium,Tremelo
+Belgium,Trois-Ponts
+Belgium,Trooz
+Belgium,Tubize
+Belgium,Turnhout
+Belgium,Verlaine
+Belgium,Verviers
+Belgium,Veurne
+Belgium,Vielsalm
+Belgium,Villers-la-Ville
+Belgium,Villers-le-Bouillet
+Belgium,Vilvoorde
+Belgium,Viroinval
+Belgium,Virton
+Belgium,Visé
+Belgium,Vleteren
+Belgium,Voeren
+Belgium,Vorselaar
+Belgium,Vosselaar
+Belgium,Vresse-sur-Semois
+Belgium,Waarschoot
+Belgium,Waasmunster
+Belgium,Wachtebeke
+Belgium,Walcourt
+Belgium,Walhain
+Belgium,Wanze
+Belgium,Waregem
+Belgium,Waremme
+Belgium,Wasseiges
+Belgium,Waterloo
+Belgium,Wavre
+Belgium,Welkenraedt
+Belgium,Wellen
+Belgium,Wellin
+Belgium,Wemmel
+Belgium,Wervik
+Belgium,Westerlo
+Belgium,Wetteren
+Belgium,Wevelgem
+Belgium,Wezembeek-Oppem
+Belgium,Wichelen
+Belgium,Wielsbeke
+Belgium,Wijnegem
+Belgium,Willebroek
+Belgium,Wingene
+Belgium,Wommelgem
+Belgium,Wortegem-Petegem
+Belgium,Wuustwezel
+Belgium,Ypres
+Belgium,Zandhoven
+Belgium,Zaventem
+Belgium,Zedelgem
+Belgium,Zele
+Belgium,Zelzate
+Belgium,Zemst
+Belgium,Zingem
+Belgium,Zoersel
+Belgium,Zomergem
+Belgium,Zonhoven
+Belgium,Zonnebeke
+Belgium,Zottegem
+Belgium,Zoutleeuw
+Belgium,Zuienkerke
+Belgium,Zulte
+Belgium,Zutendaal
+Belgium,Zwalm
+Belgium,Zwevegem
+Belgium,Zwijndrecht
+Belgium,Étalle
 Benin,Cotonou
 Benin,Parakou
 Benin,Porto Novo
@@ -4192,7 +5008,7 @@ Bosnia and Herzegovina,Trtorići
 Bosnia and Herzegovina,Trtoševo
 Bosnia and Herzegovina,Trubar
 Bosnia and Herzegovina,Trusina
-Bosnia and Herzegovina,Trusina(Berkovići)|Trusina
+Bosnia and Herzegovina,Trusina
 Bosnia and Herzegovina,Trzanj
 Bosnia and Herzegovina,Trševine
 Bosnia and Herzegovina,Tršić
@@ -5425,7 +6241,7 @@ Canada,Chance Cove
 Canada,Change Islands
 Canada,Channel-Port aux Basques
 Canada,Chapel Arm
-Canada,Charlottetown (Labrador)
+Canada,Charlottetown
 Canada,Chatham-Kent
 Canada,Clarenville
 Canada,Claresholm
@@ -5660,8 +6476,7 @@ Canada,Salvage
 Canada,Sandringham
 Canada,Sandy Cove
 Canada,Saskatoon
-Canada,Seal Cove (Fortune Bay)
-Canada,Seal Cove (White Bay)
+Canada,Seal Cove
 Canada,Sexsmith
 Canada,Sherbrooke
 Canada,Small Point-Adam's Cove-Blackhead-Broad Cove
@@ -6353,38 +7168,306 @@ Ecuador,Quito
 Ecuador,Riobamba
 Ecuador,Santo Domingo de los Colorados
 Ecuador,Tumbes
+Egypt,Abnub
+Egypt,Abu Durba
+Egypt,Abu Ghusun
+Egypt,Abu Haggag
+Egypt,Abu Hammad
+Egypt,Abu Hummus
+Egypt,Abu Kabir
+Egypt,Abu Mena
+Egypt,Abu Minqar
+Egypt,Abu Nusf
+Egypt,Abu Qurqas
+Egypt,Abu Rudeis
+Egypt,Abu Tartur
+Egypt,Abu Tig
+Egypt,Abu Tisht
+Egypt,Abu Uwaijilah
+Egypt,Abu Zenima
+Egypt,Abukir
+Egypt,Ad-Daba
+Egypt,Ad-Dabiya
+Egypt,Ad-Dair
+Egypt,Adabiya
+Egypt,Aga
+Egypt,Agami
+Egypt,Ageeba
+Egypt,Ain Furtaga
+Egypt,Ain Khudra
+Egypt,Ain Ris
+Egypt,Ain Sheikh Marzo
+Egypt,Ain Sukhna
+Egypt,Ain Umm Achmed
+Egypt,Ain as-Sillin
+Egypt,Akhmim
 Egypt,Al 'Arish
+Egypt,Al Matariya
 Egypt,Al Minya
+Egypt,Al-Amiriya
+Egypt,Al-Aqaba al-Kabira
+Egypt,Al-Arish
+Egypt,Al-Atamina
+Egypt,Al-Ayyat
+Egypt,Al-Badari
+Egypt,Al-Ballas
+Egypt,Al-Balyana
+Egypt,Al-Birba
+Egypt,Al-Burj
+Egypt,Al-Burumbul
+Egypt,Al-Fant
+Egypt,Al-Fashn
+Egypt,Al-Feiran
+Egypt,Al-Gharaq
+Egypt,Al-Hammam
+Egypt,Al-Hamrawayn
+Egypt,Al-Hamul
+Egypt,Al-Harra
+Egypt,Al-Hawamidiya
+Egypt,Al-Hindaw
+Egypt,Al-Husainiya
+Egypt,Al-Jarawla
+Egypt,Al-Kilh Gharb
+Egypt,Al-Kuntilla
+Egypt,Al-Kushh
+Egypt,Al-Maadi
+Egypt,Al-Madina al-Fakriya
+Egypt,Al-Mahalla al Kubra
 Egypt,Alexandria
+Egypt,An-Nasr
+Egypt,Ar-Radisiya
+Egypt,Armant
+Egypt,As-Saff
+Egypt,As-Salihiya
+Egypt,As-Salum
+Egypt,As-Sibiya
+Egypt,As-Simbillawain
+Egypt,Asfun al-Mataina
+Egypt,Ash-Shaikh Fadl
+Egypt,Ash-Shallufa
+Egypt,Ash-Shatt
+Egypt,Ashmun
+Egypt,Assiut
 Egypt,Aswan
 Egypt,Asyut
+Egypt,At-Tahiya
+Egypt,At-Tina
+Egypt,Atfih
+Egypt,Az-Zafarana
+Egypt,Az-Zagaziq
+Egypt,Baghdad
+Egypt,Balat
+Egypt,Baltim
 Egypt,Banha
+Egypt,Bani Mazar
+Egypt,Bani Suwaif
 Egypt,Bani Suwayf
+Egypt,Bardawil
+Egypt,Bardis
+Egypt,Baris
+Egypt,Barramiya
+Egypt,Benha
+Egypt,Beni Suef
+Egypt,Berenice
+Egypt,Biba
+Egypt,Bilbais
+Egypt,Bilqas
+Egypt,Bimban
+Egypt,Bir Abu Hashim
+Egypt,Bir Asal
+Egypt,Bir Ath-Thamad
+Egypt,Bir Quei
+Egypt,Bir Safaga
+Egypt,Bir Shalatain
+Egypt,Bir Sivala
+Egypt,Bir Umm Gherg
+Egypt,Bir Wasif
+Egypt,Bir el-Hamur
+Egypt,Birkat as-Sab
+Egypt,Biyala
+Egypt,Blondie
+Egypt,Bulaq
+Egypt,Buqbuq
+Egypt,Bur Fuad
+Egypt,Burj Mughaidhil
 Egypt,Cairo
+Egypt,Dahab
+Egypt,Dair Mawas
+Egypt,Dairut
+Egypt,Dalja
 Egypt,Damanhur
+Egypt,Damas
 Egypt,Damietta
+Egypt,Daraw
+Egypt,Dikarnis
+Egypt,Dishna
+Egypt,Disuq
+Egypt,Dschirdscha
+Egypt,Dumiat
+Egypt,Edfu
+Egypt,El-Alamein
+Egypt,El-Bawiti
+Egypt,El-Ferdan
+Egypt,El-Gouna
+Egypt,El-Kanayis
+Egypt,El-Kula
+Egypt,El-Laqeita
 Egypt,El-Mahalla El-Kubra
+Egypt,El-Zawya
+Egypt,Elat
+Egypt,Esna
+Egypt,Faqus
+Egypt,Faras
+Egypt,Faraskur
+Egypt,Farshut
 Egypt,Fayyum
+Egypt,Fidimiin
+Egypt,Fukah|Fuka
+Egypt,Fuwa
+Egypt,Gharb Mawhub
+Egypt,Ghazal
+Egypt,Ghazi
+Egypt,Gilbana
+Egypt,Girga
 Egypt,Giza
+Egypt,Gogar
+Egypt,Guhaina
+Egypt,Hamata
+Egypt,Hammam Faraun
+Egypt,Hawr
+Egypt,Hawsh Isa
+Egypt,Heluan
 Egypt,Helwan
+Egypt,Higaza
 Egypt,Hurghada
+Egypt,Ibshaway
+Egypt,Idku
+Egypt,Idmu
 Egypt,Imbaba
+Egypt,Ismailia
+Egypt,Ismailiya
 Egypt,Ismaïlia
+Egypt,Itlidim
+Egypt,Itsa
+Egypt,Izbat Hasan Badr
+Egypt,Jabal an-Nur
+Egypt,Jirza
+Egypt,Kafr Abu Tirki
 Egypt,Kafr El Sheikh
+Egypt,Kafr Salim
+Egypt,Kafr ad-Dawwar
+Egypt,Kafr asch-Schaich
+Egypt,Kafr ash-Seikh
+Egypt,Kafrat rahma
+Egypt,Kafrat-Zayyat
+Egypt,Kawm Hamada
+Egypt,Khanika
+Egypt,Kiman al-Mataina
+Egypt,Kirdasa
+Egypt,Kom Ombo
 Egypt,Luxor
+Egypt,Maghagha
+Egypt,Mahallat Marhum
+Egypt,Maidun
+Egypt,Mallawi
+Egypt,Mandiska
+Egypt,Manfalut
+Egypt,Manqabad
 Egypt,Mansoura
+Egypt,Marsa Alam
+Egypt,Marsa Matrouh
+Egypt,Marsa Shagra
+Egypt,Masaid
+Egypt,Matay
+Egypt,Minuf
 Egypt,Minya
+Egypt,Minya al-Qamb
+Egypt,Mit Ghamr
+Egypt,Monera
+Egypt,Mons Claudianus
+Egypt,Mons Porphyrites
+Egypt,Mut
+Egypt,Nadir
+Egypt,Nafisha
+Egypt,Nag Hammadi
+Egypt,Nakhl
+Egypt,Naqada
+Egypt,Nuweiba
 Egypt,Port Said
+Egypt,Qalamun
 Egypt,Qalyub
+Egypt,Qara Oasis|Qara
+Egypt,Qasr Farafra
+Egypt,Qasr Kharga
+Egypt,Qasr al-Farafira
 Egypt,Qena
+Egypt,Qift
+Egypt,Qiman Al-Arus
+Egypt,Qina
+Egypt,Qullin
+Egypt,Qus
+Egypt,Qusair
+Egypt,Ramadan
+Egypt,Ramana
+Egypt,Ras Gharrib
+Egypt,Ras Jamsah
+Egypt,Ras al-Hikma
+Egypt,Ras el-Barr
+Egypt,Ras el-Sudr
+Egypt,Rosetta|Rashid
+Egypt,Sabdafa
+Egypt,Safaga
+Egypt,Salwa al-Bahriya
+Egypt,Samalut
+Egypt,Samanud
+Egypt,San al-Hajar al Qibliya
+Egypt,Sannur
+Egypt,Saqqara
+Egypt,Sarabiyum
+Egypt,Satamuni
+Egypt,Sauhadsh
+Egypt,Sawl
+Egypt,Sharm el-Sheikh
+Egypt,Sheikh Shazly
+Egypt,Sherbin
+Egypt,Shibin al-Kawm
+Egypt,Shibin al-Qanatir
 Egypt,Shibin el-Kom
+Egypt,Shirbin
+Egypt,Shubra El-Kheima
 Egypt,Shubra al Khaymah
+Egypt,Sidi Abd ar-Rahman
+Egypt,Sidi Barrani
+Egypt,Sidi Hunaish
+Egypt,Sidi Salim
+Egypt,Sinnuris
+Egypt,Siwa Oasis|Siwa
 Egypt,Sixth of October
 Egypt,Sohag
 Egypt,Suez
 Egypt,Suhaj
+Egypt,Sumusta al-Waqf
+Egypt,Suqayl
+Egypt,Taba
+Egypt,Tabluha
+Egypt,Tahta
+Egypt,Tala
+Egypt,Talcha
+Egypt,Talla
+Egypt,Tamiya
 Egypt,Tanta
+Egypt,Tihna al-Jabal
+Egypt,Tima
+Egypt,Tukh
+Egypt,Tunaida
+Egypt,Wadi Halfa
+Egypt,Warraq Al Hadar
 Egypt,Zagazig
+Egypt,Zaitun
+Egypt,Zawiyar at-Tarfaya
+Egypt,Zawiyat Shammas
+Egypt,Zawiyatal-Awwama
+Egypt,Zifta
 El Salvador,Apopa
 El Salvador,Ciudad Delgado
 El Salvador,Ilopango
@@ -8751,7 +9834,7 @@ Hungary,Abaújszántó
 Hungary,Abony
 Hungary,Abádszalók
 Hungary,Adony
-Hungary,Ajak (Hungary)|Ajak
+Hungary,Ajak
 Hungary,Albertirsa
 Hungary,Alsózsolca
 Hungary,Aszód
@@ -9825,7 +10908,7 @@ Iran,Bent
 Iran,Beyarjomand
 Iran,Beyram
 Iran,Beyza
-Iran,Bijar (city)
+Iran,Bijar
 Iran,Bileh Savar
 Iran,Birjand
 Iran,Bisotun
@@ -10569,7 +11652,7 @@ Ireland,Ardee
 Ireland,Ardfert
 Ireland,Ardfinnan
 Ireland,Ardmore
-Ireland,Ardnacrusha (village)
+Ireland,Ardnacrusha
 Ireland,Ardskeagh
 Ireland,Arklow
 Ireland,Arthurstown
@@ -10850,7 +11933,6 @@ Ireland,Coolgreany
 Ireland,Coonagh
 Ireland,Cootehill
 Ireland,Cork
-Ireland,Cork (city)
 Ireland,Corofin
 Ireland,Courtmacsherry
 Ireland,Courtown Harbour
@@ -10876,7 +11958,7 @@ Ireland,Dingle
 Ireland,Donabate
 Ireland,Donard
 Ireland,Donaskeigh
-Ireland,Donegal (town)
+Ireland,Donegal
 Ireland,Doneraile
 Ireland,Donore
 Ireland,Doon
@@ -11345,7 +12427,7 @@ Ireland,Timoleague
 Ireland,Tinahely
 Ireland,Tinryland
 Ireland,Tinure
-Ireland,Tipperary (town)
+Ireland,Tipperary
 Ireland,Toomevara
 Ireland,Tournafulla
 Ireland,Tower
@@ -11715,7 +12797,7 @@ Italy,Grottammare
 Italy,Grottazzolina
 Italy,Gruaro
 Italy,Grumolo delle Abbadesse
-Italy,Gualdo (MC)|Gualdo
+Italy,Gualdo
 Italy,Guarda Veneta
 Italy,Illasi
 Italy,Isola Rizza
@@ -13673,35 +14755,1537 @@ Moldova,Bălți
 Moldova,Chişinău
 Mongolia,Ulaanbaatar
 Montenegro,Podgorica
+Morocco,Aarab Sebbah Gheris
+Morocco,Aarab Sebbah Ziz
+Morocco,Abadou
+Morocco,Abaynou
+Morocco,Abbou Lakhal
+Morocco,Abdelghaya Souahel
+Morocco,Abteh
+Morocco,Adaghas
+Morocco,Adar
+Morocco,Adassil
+Morocco,Aday
+Morocco,Adis
+Morocco,Adrej
+Morocco,Afalla Issen
+Morocco,Afella Ighir
+Morocco,Afella N'Dra
+Morocco,Aferkat
+Morocco,Afourar
+Morocco,Afra
+Morocco,Afsou
 Morocco,Agadir
+Morocco,Agadir Melloul
+Morocco,Agafay
+Morocco,Agdal
+Morocco,Agdal Riyad
+Morocco,Agdz
+Morocco,Aghbal
+Morocco,Aghbala
+Morocco,Aghbalou
+Morocco,Aghbalou Aqorar
+Morocco,Aghbalou N'Kerdous
+Morocco,Aghbar
+Morocco,Aghouinite
+Morocco,Aglif
+Morocco,Agoudi N'Lkhair
+Morocco,Agoudim
+Morocco,Agourai
+Morocco,Aguelmam Azegza
+Morocco,Aguelmous
+Morocco,Aguerd
+Morocco,Aguinane
+Morocco,Ahdil
+Morocco,Ahfir
+Morocco,Ahl Angad
+Morocco,Ahl Oued Za
+Morocco,Ahl Ramel
+Morocco,Ahl Sidi Lahcen
+Morocco,Ahl Tifnoute
+Morocco,Ahlaf
+Morocco,Ahmar Laglalcha
+Morocco,Ain Attig
+Morocco,Ain Beida
+Morocco,Ain Bida
+Morocco,Ain Blal
+Morocco,Ain Bni Mathar
+Morocco,Ain Bou Ali
+Morocco,Ain Cheggag
+Morocco,Ain Chkef
+Morocco,Ain Chouater
+Morocco,Ain Dfali
+Morocco,Ain Dorbane
+Morocco,Ain Erreggada
+Morocco,Ain Jemaa
+Morocco,Ain Johra
+Morocco,Ain Kaicher
+Morocco,Ain Kansra
+Morocco,Ain Karma
+Morocco,Ain Lahsan
+Morocco,Ain Legdah
+Morocco,Ain Lehjer
+Morocco,Ain Leuh
+Morocco,Ain Maatouf
+Morocco,Ain Mediouna
+Morocco,Ain Nzagh
+Morocco,Ain Orma
+Morocco,Ain Sbit
+Morocco,Ain Sfa
+Morocco,Ain Taoujdate
+Morocco,Ain Tazitounte
+Morocco,Ain Timguenai
+Morocco,Ain Tizgha
+Morocco,Ain Zohra
+Morocco,Ait Aadel
+Morocco,Ait Abbas
+Morocco,Ait Abdallah
+Morocco,Ait Aissi Ihahane
+Morocco,Ait Amira
+Morocco,Ait Ammar
+Morocco,Ait Ayach
+Morocco,Ait Baha
+Morocco,Ait Bazza
+Morocco,Ait Belkacem
+Morocco,Ait Ben Yacoub
+Morocco,Ait Blal
+Morocco,Ait Bou Oulli
+Morocco,Ait Boubidmane
+Morocco,Ait Boudaoud
+Morocco,Ait Boufoulen
+Morocco,Ait Bourzouine
+Morocco,Ait Bouyahya El Hajjama
+Morocco,Ait Daoud
+Morocco,Ait El Farsi
+Morocco,Ait El Mane
+Morocco,Ait Erkha
+Morocco,Ait Faska
+Morocco,Ait Haddou Youssef
+Morocco,Ait Hadi
+Morocco,Ait Hammou
+Morocco,Ait Hani
+Morocco,Ait Harz Allah
+Morocco,Ait Hkim Ait Yzid
+Morocco,Ait Iaaza
+Morocco,Ait Ichou
+Morocco,Ait Igas
+Morocco,Ait Ikkou
+Morocco,Ait Imour
+Morocco,Ait Ishaq
+Morocco,Ait Issafen
+Morocco,Ait Izdeg
+Morocco,Ait Kamra
+Morocco,Ait M'Hamed
+Morocco,Ait Mait
+Morocco,Ait Majden
+Morocco,Ait Makhlouf
+Morocco,Ait Malek
+Morocco,Ait Mazigh
+Morocco,Ait Melloul
+Morocco,Ait Milk
+Morocco,Ait Mimoune
+Morocco,Ait Mzal
+Morocco,Ait Naamane
+Morocco,Ait Ouaarda
+Morocco,Ait Ouabelli
+Morocco,Ait Ouadrim
+Morocco,Ait Ouafqa
+Morocco,Ait Ouallal
+Morocco,Ait Ouassif
+Morocco,Ait Ouikhalfen
+Morocco,Ait Oum El Bekht
+Morocco,Ait Oumdis
+Morocco,Ait Ouqabli
+Morocco,Ait Ouribel
+Morocco,Ait Ourir
+Morocco,Ait Saadelli
+Morocco,Ait Saghrouchen
+Morocco,Ait Said
+Morocco,Ait Sebaa Lajrouf
+Morocco,Ait Sedrate Jbel El Oulia
+Morocco,Ait Sedrate Jbel El Soufla
+Morocco,Ait Sedrate Sahl Charkia
+Morocco,Ait Sedrate Sahl El Gharbia
+Morocco,Ait Siberne
+Morocco,Ait Sidi Daoud
+Morocco,Ait Taguella
+Morocco,Ait Taleb
+Morocco,Ait Tamlil
+Morocco,Ait Yaazem
+Morocco,Ait Yadine
+Morocco,Ait Yahya
+Morocco,Ait Youl
+Morocco,Ait Youssef Ou Ali
+Morocco,Ait Zineb
+Morocco,Ajdir
+Morocco,Akarma
+Morocco,Akhfennir
+Morocco,Akka
+Morocco,Akka Ighane
+Morocco,Aklim
+Morocco,Aknoul
+Morocco,Al Aaroui
+Morocco,Al Bahraoyine
+Morocco,Al Barkanyene
+Morocco,Al Hamra
+Morocco,Al Haouafate
+Morocco,Al Hoceima
+Morocco,Al Khalfia
+Morocco,Al Khrroub
+Morocco,Al Machouar - Stinia
+Morocco,Al Mahbass
+Morocco,Al Majjatia Oulad Taleb
+Morocco,Al Manzla
+Morocco,Al Oued
+Morocco,Al-Fida
+Morocco,Allougoum
+Morocco,Allyene
+Morocco,Almis Marmoucha
+Morocco,Alnif
+Morocco,Alouidane
+Morocco,Amalou
+Morocco,Amejjaou
+Morocco,Amellagou
+Morocco,Amersid
+Morocco,Amerzgane
+Morocco,Ameur Seflia
+Morocco,Amgala
+Morocco,Amghras
+Morocco,Amizmiz
+Morocco,Ammelne
+Morocco,Amouguer
+Morocco,Amskroud
+Morocco,Amtar
+Morocco,Amtdi
+Morocco,Anemzi
+Morocco,Anergui
+Morocco,Anfa
+Morocco,Anfeg
+Morocco,Anjra
+Morocco,Annakhil
+Morocco,Anougal
+Morocco,Anzi
+Morocco,Anzou
+Morocco,Aoufous
+Morocco,Aouguenz
+Morocco,Aouint Lahna
+Morocco,Aouint Yghomane
+Morocco,Aoulouz
+Morocco,Aourir
+Morocco,Aousserd
+Morocco,Aqesri
+Morocco,Aquermoud
+Morocco,Aquouass Briech
+Morocco,Arazane
+Morocco,Arbaa Ait Abdellah
+Morocco,Arbaa Ait Ahmed
+Morocco,Arbaa Rasmouka
+Morocco,Arbaa Sahel
+Morocco,Arbaa Taourirt
+Morocco,Arbaoua
+Morocco,Arekmane
+Morocco,Arfoud
+Morocco,Argana
+Morocco,Asjen
+Morocco,Askaouen
+Morocco,Asni
+Morocco,Asrir
+Morocco,Assa
+Morocco,Assads
+Morocco,Assahrij
+Morocco,Assais
+Morocco,Assaisse
+Morocco,Assaki
+Morocco,Assebbab
+Morocco,Assif El Mal
+Morocco,Assilah
+Morocco,Assoukhour Assawda
+Morocco,Assoul
+Morocco,Atiamim
+Morocco,Atouabet
+Morocco,Ayacha
+Morocco,Ayir
+Morocco,Azaghar N'Irs
+Morocco,Azemmour
+Morocco,Azghar
+Morocco,Azgour
+Morocco,Aziar
+Morocco,Azilal
+Morocco,Azla
+Morocco,Azlaf
+Morocco,Aznaguen
+Morocco,Azrar
+Morocco,Azrou
+Morocco,Azzaba
+Morocco,Azzinate
+Morocco,Aîn-Chock
+Morocco,Aîn-Sebaâ
+Morocco,Aïn Aïcha
+Morocco,Aïn El Aouda
+Morocco,Aïn Harrouda
+Morocco,Bab Berred
+Morocco,Bab Boudir
+Morocco,Bab Lamrissa
+Morocco,Bab Marzouka
+Morocco,Bab Taza
+Morocco,Bab Tiouka
+Morocco,Bahhara Oulad Ayad
+Morocco,Barkine
+Morocco,Bejaad
+Morocco,Belfaa
+Morocco,Ben Ahmed
+Morocco,Ben Guerir
+Morocco,Ben Khlil
+Morocco,Ben M'Sick
+Morocco,Ben Maachou
+Morocco,Ben Mansour
+Morocco,Ben Smim
+Morocco,Ben Taieb
+Morocco,Beni Malek
 Morocco,Beni Mellal
+Morocco,Benslimane
 Morocco,Berkane
 Morocco,Berrechid
+Morocco,Bettana
+Morocco,Bghaghza
+Morocco,Bhalil
+Morocco,Bigoudine
+Morocco,Bin El Ouidane
+Morocco,Biougra
+Morocco,Bir Anzarane
+Morocco,Bir Ennasr
+Morocco,Bir Gandouz
+Morocco,Bir Mezoui
+Morocco,Bir Taleb
+Morocco,Bir Tam Tam
+Morocco,Bitit
+Morocco,Bizdad
+Morocco,Bleida
+Morocco,Bni Abdallah
+Morocco,Bni Ahmed Cherqia
+Morocco,Bni Ahmed Gharbia
+Morocco,Bni Ahmed Imoukzan
+Morocco,Bni Ammart
+Morocco,Bni Ansar
+Morocco,Bni Arouss
+Morocco,Bni Ayat
+Morocco,Bni Bataou
+Morocco,Bni Bchir
+Morocco,Bni Bouayach
+Morocco,Bni Bouchibet
+Morocco,Bni Boufrah
+Morocco,Bni Bouifrour
+Morocco,Bni Bounsar
+Morocco,Bni Bouzra
+Morocco,Bni Chegdale
+Morocco,Bni Chiker
+Morocco,Bni Darkoul
+Morocco,Bni Drar
+Morocco,Bni Faghloum
+Morocco,Bni Frassen
+Morocco,Bni Ftah
+Morocco,Bni Garfett
+Morocco,Bni Gmil
+Morocco,Bni Gmil Maksouline
+Morocco,Bni Guil
+Morocco,Bni Hadifa
+Morocco,Bni Harchen
+Morocco,Bni Hassane
+Morocco,Bni Hilal
+Morocco,Bni Idder
+Morocco,Bni Khaled
+Morocco,Bni Khloug
+Morocco,Bni Leit
+Morocco,Bni Lent
+Morocco,Bni M'Hamed Sijelmassa
+Morocco,Bni Makada
+Morocco,Bni Mansour
+Morocco,Bni Marghnine
+Morocco,Bni Mathar
+Morocco,Bni Oual
+Morocco,Bni Oukil
+Morocco,Bni Oukil Oulad M'Hand
+Morocco,Bni Oulid
+Morocco,Bni Ounjel Tafraout
+Morocco,Bni Quolla
+Morocco,Bni Rzine
+Morocco,Bni Said
+Morocco,Bni Salah
+Morocco,Bni Selmane
+Morocco,Bni Sidel Jbel
+Morocco,Bni Sidel Louta
+Morocco,Bni Smih
+Morocco,Bni Smir
+Morocco,Bni Snous
+Morocco,Bni Tadjite
+Morocco,Bni Tsiriss
+Morocco,Bni Yagrine
+Morocco,Bni Yakhlef
+Morocco,Bni Ykhlef
+Morocco,Bni Zoli
+Morocco,Bni Zrantel
+Morocco,Bou Azmou
+Morocco,Bou Jedyane
+Morocco,Bouabout
+Morocco,Bouabout Amdlane
+Morocco,Bouadel
+Morocco,Bouanane
+Morocco,Bouarfa
+Morocco,Bouarg
+Morocco,Bouarouss
+Morocco,Bouchabel
+Morocco,Bouchane
+Morocco,Bouchaouene
+Morocco,Bouchfaa
+Morocco,Boudinar
+Morocco,Boudnib
+Morocco,Boufakrane
+Morocco,Boughriba
+Morocco,Bouguargouh
+Morocco,Bouguedra
+Morocco,Bouhlou
+Morocco,Bouhmame
+Morocco,Bouhouda
+Morocco,Bouizakarne
+Morocco,Boujdour
+Morocco,Boujniba
+Morocco,Boukhalef
+Morocco,Boukhrisse
+Morocco,Boukraa
+Morocco,Boulanouare
+Morocco,Boulaouane
+Morocco,Boulemane
+Morocco,Boumaiz
+Morocco,Boumalne Dades
+Morocco,Boumerieme
+Morocco,Boumia
+Morocco,Bounaamane
+Morocco,Bounrar
+Morocco,Bouqachmir
+Morocco,Bourd
+Morocco,Bourrous
+Morocco,Bouskoura
+Morocco,Boutferda
+Morocco,Boutrouch
+Morocco,Bouya Omar
+Morocco,Bouyablane
+Morocco,Bouzemmour
+Morocco,Bouzeroual
+Morocco,Bouznika
+Morocco,Brachoua
+Morocco,Bradia
+Morocco,Braksa
+Morocco,Brarha
+Morocco,Brikcha
+Morocco,Bsara
+Morocco,Bzou
 Morocco,Casablanca
+Morocco,Chaibate
+Morocco,Chakrane
+Morocco,Charf-Mghogha
+Morocco,Charf-Souani
+Morocco,Charqaoua
+Morocco,Chbanate
+Morocco,Chbika
+Morocco,Chefchaouen
+Morocco,Cherrat
+Morocco,Chichaoua
+Morocco,Choara
+Morocco,Chorfa M'Daghra
+Morocco,Chouafaa
+Morocco,Chougrane
+Morocco,Chouihia
+Morocco,Chtaiba
+Morocco,Chtouka
+Morocco,Dakhla
+Morocco,Daoura
+Morocco,Dar Bel Amri
+Morocco,Dar Bni Karrich
+Morocco,Dar Bouazza
+Morocco,Dar Chaffai
+Morocco,Dar Chaoui
+Morocco,Dar El Hamra
+Morocco,Dar El Kebdani
+Morocco,Dar Gueddari
+Morocco,Dar Jamaa
+Morocco,Dar Laaslouji
+Morocco,Dar Ould Zidouh
+Morocco,Dar Oum Soltane
+Morocco,Dar Si Aissa
+Morocco,Dayat Aoua
+Morocco,Dcheira
+Morocco,Dcheira El Jihadia
+Morocco,Debdou
+Morocco,Demnate
+Morocco,Derdara
+Morocco,Deroua
+Morocco,Dir El Ksiba
+Morocco,Dkhissa
+Morocco,Douirane
+Morocco,Drargua
+Morocco,Driouch
+Morocco,Dzouz
+Morocco,Ech-Challalate
+Morocco,Echatea El Abied
+Morocco,Echemmaia
+Morocco,Eddachra
+Morocco,Eddir
+Morocco,El Aamria
+Morocco,El Aioun Sidi Mellouk
+Morocco,El Argoub
+Morocco,El Atef
+Morocco,El Beddouza
+Morocco,El Bibane
+Morocco,El Borj
+Morocco,El Borouj
+Morocco,El Bsabsa
+Morocco,El Faid
+Morocco,El Foqra
+Morocco,El Gantour
+Morocco,El Ganzra
+Morocco,El Gara
+Morocco,El Ghiate
+Morocco,El Gouraani
+Morocco,El Gouzate
+Morocco,El Guerdane
+Morocco,El Hagounia
+Morocco,El Hajeb
+Morocco,El Hammam
+Morocco,El Hanchane
 Morocco,El Jadida
+Morocco,El Kbab
+Morocco,El Kelaâ Des Sraghna
+Morocco,El Koudia El Beida
+Morocco,El Ksiba
+Morocco,El Maader El Kabir
+Morocco,El Maarif
+Morocco,El Mansouria
+Morocco,El Marbouh
+Morocco,El Mariniyine
+Morocco,El Marsa
+Morocco,El Menzeh
+Morocco,El Menzel
+Morocco,El Mers
+Morocco,El Orjane
+Morocco,El Ouatia
+Morocco,El Youssoufia
+Morocco,El-Jadida
+Morocco,En-Nzala
+Morocco,Enjil
+Morocco,Er-Rich
+Morocco,Er-Rissani
+Morocco,Er-Rteb
+Morocco,Ermila
+Morocco,Ermilate
+Morocco,Errachidia
+Morocco,Errafiaya
+Morocco,Errouha
+Morocco,Es-Semara
+Morocco,Es-Sfalat
+Morocco,Es-Sifa
+Morocco,Esbiaat
+Morocco,Essaouira
+Morocco,Et-Taous
+Morocco,Ezzaouite
+Morocco,Ezzhiliga
+Morocco,Fam El Hisn
+Morocco,Farkhana
+Morocco,Fask
+Morocco,Fdalate
+Morocco,Fennassa Bab El Hit
+Morocco,Ferkla El Oulia
+Morocco,Ferkla Es-Soufla
 Morocco,Fes
+Morocco,Fes-Medina
+Morocco,Fezna
+Morocco,Fezouane
+Morocco,Fezouata
+Morocco,Fifi
+Morocco,Figuig
+Morocco,Fnidq
+Morocco,Foqra Oulad Aameur
+Morocco,Foum El Anceur
+Morocco,Foum El Oued
+Morocco,Foum Jemaa
+Morocco,Foum Oudi
+Morocco,Foum Zguid
 Morocco,Fquih Ben Salah
+Morocco,Fraita
+Morocco,Freija
+Morocco,Fritissa
+Morocco,Gafait
+Morocco,Galaz
+Morocco,Galdamane
+Morocco,Gdana
+Morocco,Ghafsai
+Morocco,Ghassate
+Morocco,Gheris El Ouloui
+Morocco,Gheris Es-Soufli
+Morocco,Ghiata Al Gharbia
+Morocco,Ghmate
+Morocco,Ghouazi
+Morocco,Gleibat El Foula
+Morocco,Gmassa
+Morocco,Goulmima
+Morocco,Gourrama
+Morocco,Gteter
+Morocco,Gueliz
 Morocco,Guelmim
+Morocco,Gueltat Zemmour
+Morocco,Guenfouda
+Morocco,Guercif
+Morocco,Guers Tiaallaline
+Morocco,Guettaya
+Morocco,Guigou
+Morocco,Guir
+Morocco,Guisser
+Morocco,Gzenaya Al Janoubia
+Morocco,H'Ssyia
+Morocco,Had Bouhssoussen
+Morocco,Had Boumoussa
+Morocco,Had Dra
+Morocco,Had Kourt
+Morocco,Haddada
+Morocco,Haouza
+Morocco,Haouzia
+Morocco,Harbil
+Morocco,Harhoura
+Morocco,Hassan
+Morocco,Hassi Berkane
+Morocco,Hattane
+Morocco,Hay Mohammadi
+Morocco,Hay-Hassani
+Morocco,Hel Merbaa
+Morocco,Hiadna
+Morocco,Hilala
+Morocco,Houara Oulad Raho
+Morocco,Houderrane
+Morocco,Hrara
+Morocco,Hssaine
+Morocco,Iaazzanene
+Morocco,Ibdar
+Morocco,Ibn Yacoub
+Morocco,Ichamraren
+Morocco,Ida Ou Aazza
+Morocco,Ida Ou Gailal
+Morocco,Ida Ou Gougmar
+Morocco,Ida Ou Guelloul
+Morocco,Ida Ou Kazzou
+Morocco,Ida Ou Moumen
+Morocco,Ida Ougnidif
+Morocco,Ida Ougoummad
+Morocco,Idelsane
+Morocco,Idmine
+Morocco,Iferni
+Morocco,Ifrane
+Morocco,Ifrane Atlas-Saghir
+Morocco,Ighil
+Morocco,Ighil N'Oumgoun
+Morocco,Ighoud
+Morocco,Ighrem N'Ougdal
+Morocco,Ighzrane
+Morocco,Igli
+Morocco,Igoudar Mnabha
+Morocco,Iguerferouane
+Morocco,Iguidi
+Morocco,Ihaddadene
+Morocco,Ijermaouas
+Morocco,Ijoukak
+Morocco,Ikniouen
+Morocco,Iksane
+Morocco,Imaouen
+Morocco,Imgdal
+Morocco,Imgrade
+Morocco,Imi Mqourn
+Morocco,Imi N'Fast
+Morocco,Imi N'Oulaoune
+Morocco,Imi N'Tayart
+Morocco,Imi N'Tlit
+Morocco,Imider
+Morocco,Imilchil
+Morocco,Imilmaiss
+Morocco,Imindounit
+Morocco,Imintanoute
+Morocco,Imlil
+Morocco,Imlili
+Morocco,Imoulass
+Morocco,Imouzzer Ida Ou Tanane
+Morocco,Imouzzer Kandar
+Morocco,Imouzzer Marmoucha
+Morocco,Imrabten
+Morocco,Imsouane
+Morocco,Imzouren
+Morocco,Inchaden
 Morocco,Inezgane
+Morocco,Iounane
+Morocco,Iqaddar
+Morocco,Irherm
+Morocco,Irigh N'Tahala
+Morocco,Irohalen
+Morocco,Isly
+Morocco,Issafen
+Morocco,Issaguen
+Morocco,Isseksi
+Morocco,Issen
+Morocco,Itzer
+Morocco,Izemmouren
+Morocco,Jaafra
+Morocco,Jabria
+Morocco,Jahjouh
+Morocco,Jaidate
+Morocco,Jamaat Shaim
+Morocco,Jaqma
+Morocco,Jbabra
+Morocco,Jbarna
+Morocco,Jbel Lahbib
+Morocco,Jbiel
+Morocco,Jdiriya
+Morocco,Jdour
+Morocco,Jemaat Moul Blad
+Morocco,Jerada
+Morocco,Jnan El Ouard
+Morocco,Jnane Bouih
+Morocco,Jorf
+Morocco,Jorf El Melha
+Morocco,Jouala
+Morocco,Jouamaa
+Morocco,Jraifia
+Morocco,Kaf El Ghar
+Morocco,Kalaat Bouqorra
+Morocco,Kalaat M'Gouna
+Morocco,Kandar Sidi Khiar
+Morocco,Karia Ba Mohamed
+Morocco,Kariat Ben Aouda
+Morocco,Karmet Ben Salem
+Morocco,Kasba Tadla
+Morocco,Kasbat Ben Mchich
+Morocco,Kasbat Sidi Abdellah Ben M'Barek
+Morocco,Kasbat Troch
+Morocco,Kceibya
+Morocco,Kechoula
 Morocco,Kenitra
+Morocco,Kerrouchen
+Morocco,Ketama
+Morocco,Khatazakane
+Morocco,Khemis Sidi Yahya
 Morocco,Khemisset
+Morocco,Khemisset Chaouia
 Morocco,Khenifra
+Morocco,Khlalfa
+Morocco,Khmis Ksiba
+Morocco,Khnichet
 Morocco,Khouribga
+Morocco,Khouzama
+Morocco,Kissane
+Morocco,Korimate
+Morocco,Koudiat Bni Dghough
+Morocco,Kouzemt
+Morocco,Kridid
+Morocco,Krifate
+Morocco,Ksabi Moulouya
+Morocco,Ksar Bjir
+Morocco,Ksar El Kebir
+Morocco,Ksar El Majaz
+Morocco,Ksar Sghir
+Morocco,Ktaoua
+Morocco,Laagagcha
+Morocco,Laajajra
+Morocco,Laamamra
+Morocco,Laamria
+Morocco,Laanoussar
+Morocco,Laaouama
+Morocco,Laaouinate
+Morocco,Laaounate
+Morocco,Laatamna
+Morocco,Laatatra
+Morocco,Laattaouia
+Morocco,Laattaouia Ech-Chaybia
+Morocco,Laayoune
+Morocco,Labkhati
+Morocco,Labouirat
+Morocco,Labrikiyne
+Morocco,Labyar
+Morocco,Lagdadra
+Morocco,Lagfaf
+Morocco,Lagfifat
+Morocco,Laghdir
+Morocco,Laghdira
+Morocco,Laghnadra
+Morocco,Laghnimyine
+Morocco,Laghoualem
+Morocco,Lagnadiz
+Morocco,Lagouira
+Morocco,Lahdar
+Morocco,Lahlaf M'Zab
+Morocco,Lahouaza
+Morocco,Lahraouyine
+Morocco,Lahsasna
+Morocco,Lahsinate
+Morocco,Lakhiaita
+Morocco,Lakhnafif
+Morocco,Lakhoualqa
+Morocco,Lakhsas
+Morocco,Lakhzazra
+Morocco,Lalla Aaziza
+Morocco,Lalla Mimouna
+Morocco,Lalla Takarkoust
+Morocco,Lamaachate
+Morocco,Lambarkiyine
+Morocco,Lamhadi
+Morocco,Lamhara
+Morocco,Lamharra
+Morocco,Lamharza Essahel
+Morocco,Lamjaara
+Morocco,Lamnizla
+Morocco,Lamrabih
+Morocco,Lamrasla
+Morocco,Lamrija
+Morocco,Lamsabih
+Morocco,Lamssid
+Morocco,Lamzoudia
+Morocco,Laouamra
+Morocco,Laqraqra
+Morocco,Laqsabi Tagoust
+Morocco,Laqsir
 Morocco,Larache
+Morocco,Layayda
+Morocco,Lbir Jdid
+Morocco,Lebkhata
+Morocco,Lehri
+Morocco,Lgharbia
+Morocco,Lkhaloua
+Morocco,Lkheng
+Morocco,Lmechrek
+Morocco,Louadaine
+Morocco,Loualidia
+Morocco,Loudaya
+Morocco,Loued Lakhdar
+Morocco,Loulad
+Morocco,Loulja
+Morocco,Lounasda
+Morocco,Louta
+Morocco,Lqliaa
+Morocco,M'Diq
+Morocco,M'Fassis
+Morocco,M'Garto
+Morocco,M'Hajer
+Morocco,M'Hamid El Ghizlane
+Morocco,M'Haya
+Morocco,M'Khalif
+Morocco,M'Nabha
+Morocco,M'Qam Tolba
+Morocco,M'Ramer
+Morocco,M'Rirt
+Morocco,M'Saada
+Morocco,M'Semrir
+Morocco,M'Ssici
+Morocco,M'Tal
+Morocco,M'Tioua
+Morocco,M'Zem Sanhaja
+Morocco,M'Zizel
+Morocco,M'Zouda
+Morocco,Maadna
+Morocco,Maatarka
+Morocco,Maaziz
+Morocco,Machraa Ben Abbou
+Morocco,Machraa El Ain
+Morocco,Madagh
+Morocco,Maghraoua
+Morocco,Majjat
+Morocco,Majjate
+Morocco,Majmaa Tolba
+Morocco,Mallalienne
+Morocco,Malloussa
+Morocco,Mansoura
+Morocco,Marchouch
 Morocco,Marrakech
+Morocco,Marrakech-Medina
+Morocco,Martil
+Morocco,Masmouda
+Morocco,Massa
+Morocco,Matmata
+Morocco,Mayate
+Morocco,Mazguitam
+Morocco,Mechouar De Casablanca
+Morocco,Mechouar Fes Jdid
+Morocco,Mechouar Kasba
+Morocco,Mechra Bel Ksiri
+Morocco,Mechraa Hammadi
+Morocco,Mediouna
+Morocco,Mehdya
+Morocco,Mejji
+Morocco,Meknassa Acharqia
+Morocco,Meknassa Al Gharbia
 Morocco,Meknes
+Morocco,Melaab
+Morocco,Melg El Ouidane
+Morocco,Mellila
+Morocco,Menara
+Morocco,Mers El Kheir
+Morocco,Mers-Sultan
+Morocco,Meskala
+Morocco,Meskoura
+Morocco,Messassa
+Morocco,Mestegmer
+Morocco,Mestferki
+Morocco,Metrane
+Morocco,Metsi
+Morocco,Mettouh
+Morocco,Mezguita
+Morocco,Mezraoua
+Morocco,Mibladen
+Morocco,Midar
+Morocco,Midelt
+Morocco,Mijik
+Morocco,Mikkes
+Morocco,Mirleft
+Morocco,Missour
+Morocco,Mkansa
+Morocco,Mnasra
+Morocco,Mniaa
+Morocco,Mograne
+Morocco,Mogress
+Morocco,Moha Ou Hammou Zayani
 Morocco,Mohammedia
+Morocco,Moqrisset
+Morocco,Moualine El Ghaba
+Morocco,Moualine El Oued
+Morocco,Mouarid
+Morocco,Moul El Bergui
+Morocco,Moulay Abdallah
+Morocco,Moulay Abdelkader
+Morocco,Moulay Abdelkrim
+Morocco,Moulay Ahmed Cherif
+Morocco,Moulay Aissa Ben Driss
+Morocco,Moulay Ali Cherif
+Morocco,Moulay Bouazza
+Morocco,Moulay Bouchta
+Morocco,Moulay Bousselham
+Morocco,Moulay Bouzarqtoune
+Morocco,Moulay Brahim
+Morocco,Moulay Driss Aghbal
+Morocco,Moulay Driss Zerhoun
+Morocco,Moulay Rachid
+Morocco,Moulay Yacoub
+Morocco,Mrhassiyine
+Morocco,Mrija
+Morocco,Mrizigue
+Morocco,Msied
+Morocco,Msila
+Morocco,Mtarnagha
+Morocco,Mzefroune
+Morocco,Mzilate
+Morocco,Mzoura
+Morocco,N'Khila
+Morocco,N'Kob
+Morocco,N'Zalat Bni Amar
 Morocco,Nador
+Morocco,Nagga
+Morocco,Naima
+Morocco,Naour
+Morocco,Nekkour
+Morocco,Nfifa
+Morocco,Nihit
+Morocco,Nouaceur
+Morocco,Nouirate
+Morocco,Nzalat Laadam
+Morocco,Ouad Essafa
+Morocco,Ouahat Sidi Brahim
+Morocco,Ouaklim
+Morocco,Oualili
+Morocco,Oualqadi
+Morocco,Ouaouizeght
+Morocco,Ouaoula
+Morocco,Ouaoumana
+Morocco,Ouaouzgane
+Morocco,Ouardana
+Morocco,Ouargui
+Morocco,Ouarzazate
+Morocco,Ouazguita
+Morocco,Oudka
+Morocco,Oued Amlil
+Morocco,Oued El Makhazine
+Morocco,Oued Ifrane
+Morocco,Oued Jdida
+Morocco,Oued Jemaa
+Morocco,Oued L'Bour
+Morocco,Oued Laou
+Morocco,Oued Malha
+Morocco,Oued Naam
+Morocco,Oued Naanaa
+Morocco,Oued Rommane
+Morocco,Oued Zem
+Morocco,Ouezzane
+Morocco,Ouijjane
+Morocco,Ouirgane
+Morocco,Ouislane
+Morocco,Ouisselsate
+Morocco,Ouizeght
 Morocco,Oujda
+Morocco,Oukaimden
+Morocco,Oulad Aafif
+Morocco,Oulad Aamer
+Morocco,Oulad Aamer Tizmarine
+Morocco,Oulad Aarrad
+Morocco,Oulad Abbou
+Morocco,Oulad Abdoune
+Morocco,Oulad Aissa
+Morocco,Oulad Ali Mansour
+Morocco,Oulad Ali Toualaa
+Morocco,Oulad Ali Youssef
+Morocco,Oulad Amer
+Morocco,Oulad Amghar
+Morocco,Oulad Amrane
+Morocco,Oulad Ayad
+Morocco,Oulad Ayyad
+Morocco,Oulad Azzouz
+Morocco,Oulad Ben Hammadi
+Morocco,Oulad Berhil
+Morocco,Oulad Bouali Loued
+Morocco,Oulad Bouali Nouaja
+Morocco,Oulad Boubker
+Morocco,Oulad Boughadi
+Morocco,Oulad Bourahmoune
+Morocco,Oulad Bourima
+Morocco,Oulad Boussaken
+Morocco,Oulad Chbana
+Morocco,Oulad Cherki
+Morocco,Oulad Chrif
+Morocco,Oulad Dahou
+Morocco,Oulad Daoud
+Morocco,Oulad Daoud Zkhanine
+Morocco,Oulad El Garne
+Morocco,Oulad Fares
+Morocco,Oulad Fares El Halla
+Morocco,Oulad Fennane
+Morocco,Oulad Freiha
+Morocco,Oulad Frej
+Morocco,Oulad Ftata
+Morocco,Oulad Ghanem
+Morocco,Oulad Ghziyel
+Morocco,Oulad Gnaou
+Morocco,Oulad Gouaouch
+Morocco,Oulad H'Cine
+Morocco,Oulad Hamdane
+Morocco,Oulad Hassoune
+Morocco,Oulad Hassoune Hamri
+Morocco,Oulad Hcine
+Morocco,Oulad Imloul
+Morocco,Oulad Khallouf
+Morocco,Oulad M'Barek
+Morocco,Oulad M'Hamed
+Morocco,Oulad M'Hammed
+Morocco,Oulad M'Rabet
+Morocco,Oulad M'Rah
+Morocco,Oulad Massaoud
+Morocco,Oulad Mimoun
+Morocco,Oulad Mkoudou
+Morocco,Oulad Moumna
+Morocco,Oulad Msabbel
+Morocco,Oulad Mtaa
+Morocco,Oulad Nacer
+Morocco,Oulad Nouel
+Morocco,Oulad Ouchih
+Morocco,Oulad Rahmoune
+Morocco,Oulad Said
+Morocco,Oulad Said L'Oued
+Morocco,Oulad Salah
+Morocco,Oulad Salmane
+Morocco,Oulad Sbaita
+Morocco,Oulad Sbih
+Morocco,Oulad Settout
+Morocco,Oulad Sghir
+Morocco,Oulad Si Bouhya
+Morocco,Oulad Sidi Abdelhakem
+Morocco,Oulad Sidi Ali Ben Youssef
+Morocco,Oulad Slama
+Morocco,Oulad Tayeb
+Morocco,Oulad Teima
+Morocco,Oulad Yaacoub
+Morocco,Oulad Yahia Lagraire
+Morocco,Oulad Yahya Louta
+Morocco,Oulad Yaich
+Morocco,Oulad Youssef
+Morocco,Oulad Zarrad
+Morocco,Oulad Zbair
+Morocco,Oulad Zmam
+Morocco,Ouled Cebbah
+Morocco,Ouled Dlim
+Morocco,Ouled Zidane
+Morocco,Oulmes
+Morocco,Oum Dreyga
+Morocco,Oum El Guerdane
+Morocco,Oum Rabia
+Morocco,Oumazza
+Morocco,Ounagha
+Morocco,Ouneine
+Morocco,Ounnana
+Morocco,Ourika
+Morocco,Ourtzagh
+Morocco,Outabouabane
+Morocco,Outat El Haj
+Morocco,Outerbat
+Morocco,Ouzioua
 Morocco,Rabat
+Morocco,Rahhala
+Morocco,Ras Ain Rhamna
+Morocco,Ras Asfour
+Morocco,Ras El Ain
+Morocco,Ras El Ain Chaouia
+Morocco,Ras Ijerri
+Morocco,Ras KebdanaRas El Oued
+Morocco,Ras Laksar
+Morocco,Ras Tabouda
+Morocco,Rass Oumlil
+Morocco,Ratba
+Morocco,Rbaa El Fouki
+Morocco,Rdadna Oulad Malek
+Morocco,Reggada
+Morocco,Rfala
+Morocco,Rghioua
+Morocco,Riah
+Morocco,Ribate El Kheir
+Morocco,Rima
+Morocco,Rislane
+Morocco,Rissana Chamalia
+Morocco,Rissana Janoubia
+Morocco,Rommani
+Morocco,Rouached
+Morocco,Rouadi
+Morocco,Saada
+Morocco,Saadla
+Morocco,Sabaa Aiyoun
+Morocco,Sabbah
+Morocco,Saddina
 Morocco,Safi
+Morocco,Sahel
+Morocco,Sahel Chamali
+Morocco,Sahel Oulad H'Riz
+Morocco,Sahtryine
+Morocco,Saidate
+Morocco,Saidia
+Morocco,Saiss
+Morocco,Saka
 Morocco,Salé
+Morocco,Saniat Berguig
+Morocco,Sbata
+Morocco,Sbouya
+Morocco,Sebaa Rouadi
+Morocco,Sebt Ait Rahou
+Morocco,Sebt Ennabour
+Morocco,Sebt Gzoula
+Morocco,Sebt Loudaya
+Morocco,Sebt Saiss
+Morocco,Sefrou
+Morocco,Sefsaf
+Morocco,Selfat
+Morocco,Selouane
+Morocco,Semguet
+Morocco,Senada
+Morocco,Serghina
 Morocco,Settat
+Morocco,Sfafaa
+Morocco,Sfassif
+Morocco,Sgamna
+Morocco,Shoul
+Morocco,Si Hsaien Ben Abderrahmane
+Morocco,Sid L'Mokhtar
+Morocco,Sid Zouine
+Morocco,Sidi Aayad
+Morocco,Sidi Abdallah
+Morocco,Sidi Abdallah Al Khayat
+Morocco,Sidi Abdallah El Bouchouari
+Morocco,Sidi Abdallah Ghiat
+Morocco,Sidi Abdallah Ou Belaid
+Morocco,Sidi Abdeljalil
+Morocco,Sidi Abdelkhaleq
+Morocco,Sidi Abdelkrim
+Morocco,Sidi Abdellah Ou Said
+Morocco,Sidi Abdelmoumen
+Morocco,Sidi Abderrazak
+Morocco,Sidi Abed
+Morocco,Sidi Ahmed Benaissa
+Morocco,Sidi Ahmed Cherif
+Morocco,Sidi Ahmed El Khadir
+Morocco,Sidi Ahmed Essayeh
+Morocco,Sidi Ahmed Laaroussi
+Morocco,Sidi Ahmed Ou Abdallah
+Morocco,Sidi Ahmed Ou Amar
+Morocco,Sidi Ahmed Ou Moussa
+Morocco,Sidi Aissa
+Morocco,Sidi Aissa Ben Ali
+Morocco,Sidi Aissa Ben Slimane
+Morocco,Sidi Aissa Regragui
+Morocco,Sidi Al Kamel
+Morocco,Sidi Ali
+Morocco,Sidi Ali Belkassem
+Morocco,Sidi Ali Ben Hamdouche
+Morocco,Sidi Ali Bourakba
+Morocco,Sidi Ali El Korati
+Morocco,Sidi Ali Labrahla
+Morocco,Sidi Allal El Bahraoui
+Morocco,Sidi Allal Lamsadder
+Morocco,Sidi Allal Tazi
+Morocco,Sidi Amar
+Morocco,Sidi Ameur Al Hadi
+Morocco,Sidi Azzouz
+Morocco,Sidi Badhaj
+Morocco,Sidi Belyout
+Morocco,Sidi Bennour
+Morocco,Sidi Bernoussi
+Morocco,Sidi Bettache
+Morocco,Sidi Bibi
+Morocco,Sidi Boaal
+Morocco,Sidi Borja
+Morocco,Sidi Bou Othmane
+Morocco,Sidi Bouabdelli
+Morocco,Sidi Boubker
+Morocco,Sidi Boubker El Haj
+Morocco,Sidi Bouhria
+Morocco,Sidi Boukhalkhal
+Morocco,Sidi Bouknadel
+Morocco,Sidi Boulaalam
+Morocco,Sidi Boulenouar
+Morocco,Sidi Boulkhalf
+Morocco,Sidi Boumehdi
+Morocco,Sidi Boumoussa
+Morocco,Sidi Bousber
+Morocco,Sidi Boushab
+Morocco,Sidi Boutayeb
+Morocco,Sidi Boutmim
+Morocco,Sidi Bouzid Arragragui
+Morocco,Sidi Bouzineb
+Morocco,Sidi Chiker
+Morocco,Sidi Dahbi
+Morocco,Sidi Dahmane
+Morocco,Sidi Daoud
+Morocco,Sidi El Abed
+Morocco,Sidi El Aidi
+Morocco,Sidi El Ghandour
+Morocco,Sidi El Hattab
+Morocco,Sidi El Jazouli
+Morocco,Sidi El Makhfi
+Morocco,Sidi El Mekki
+Morocco,Sidi Ettiji
+Morocco,Sidi Ghanem
+Morocco,Sidi Ghaneme
+Morocco,Sidi H'Mad Ou M'Barek
+Morocco,Sidi H'Saine Ou Ali
+Morocco,Sidi Haj M'Hamed
+Morocco,Sidi Hajjaj
+Morocco,Sidi Hajjaj Oued Hassar
+Morocco,Sidi Hammadi
+Morocco,Sidi Harazem
+Morocco,Sidi Hcine
+Morocco,Sidi Hmad Ou Hamed
+Morocco,Sidi Hsaine
+Morocco,Sidi Ifni
+Morocco,Sidi Ishaq
+Morocco,Sidi Jaber
+Morocco,Sidi Kaouki
+Morocco,Sidi Laaroussi
+Morocco,Sidi Lahsen
+Morocco,Sidi Lamine
+Morocco,Sidi Lyamani
+Morocco,Sidi M'Bark
+Morocco,Sidi M'Hamed Akhdim
+Morocco,Sidi M'Hamed Ben Lahcen
+Morocco,Sidi M'Hamed Chelh
+Morocco,Sidi M'Hamed Dalil
+Morocco,Sidi M'Hamed Ou Marzouq
+Morocco,Sidi Mansour
+Morocco,Sidi Mohamed Lahmar
+Morocco,Sidi Mohammed Ben Rahal
+Morocco,Sidi Mokhfi
+Morocco,Sidi Moumen
+Morocco,Sidi Moussa
+Morocco,Sidi Moussa Ben Ali
+Morocco,Sidi Moussa Lemhaya
+Morocco,Sidi Moussa Lhamri
+Morocco,Sidi Moussa Majdoub
+Morocco,Sidi Mzal
+Morocco,Sidi Othmane
+Morocco,Sidi Ouaaziz
+Morocco,Sidi Ouassay
+Morocco,Sidi Rahal Chatai
+Morocco,Sidi Rahhal
+Morocco,Sidi Redouane
+Morocco,Sidi Slimane
+Morocco,Sidi Slimane Echcharraa
+Morocco,Sidi Slimane Moul Al Kifane
+Morocco,Sidi Smail
+Morocco,Sidi Taibi
+Morocco,Sidi Yacoub
+Morocco,Sidi Yahya Bni Zeroual
+Morocco,Sidi Yahya El Gharb
+Morocco,Sidi Yahya Ou Saad
+Morocco,Sidi Yahya Ou Youssef
+Morocco,Sidi Yahya Zaer
+Morocco,Sidi Youssef Ben Ahmed
+Morocco,Sidi Youssef Ben Ali
+Morocco,Sidi-Kacem
+Morocco,Siroua
+Morocco,Skhirate
+Morocco,Skhour Rhamna
+Morocco,Skoura Ahl El Oust
+Morocco,Skoura Lhadra
+Morocco,Skoura M'Daz
+Morocco,Smimou
+Morocco,Smià
+Morocco,Souaken
+Morocco,Soualem
+Morocco,Souihla
+Morocco,Souissi
+Morocco,Souk El Arbaa
+Morocco,Souk Kdim
+Morocco,Souk L'Qolla
+Morocco,Souk Lakhmis Dades
+Morocco,Souk Sebt Oulad Nemma
+Morocco,Souk Tlet El Gharb
+Morocco,Souk Tolba
+Morocco,Sour El Aaz
+Morocco,Steha
+Morocco,Sti Fadma
+Morocco,Tabant
+Morocco,Tabaroucht
+Morocco,Tabia
+Morocco,Tabouda
+Morocco,Tabriquet
+Morocco,Tachrafat
+Morocco,Taddart
+Morocco,Tadighoust
+Morocco,Tadrart
+Morocco,Tafajight
+Morocco,Tafedna
+Morocco,Tafersit
+Morocco,Tafetachte
+Morocco,Tafingoult
+Morocco,Tafoughalt
+Morocco,Tafrant
+Morocco,Tafraout
+Morocco,Tafraout El Mouloud
+Morocco,Tafraouten
+Morocco,Taftechna
+Morocco,Tagante
+Morocco,Taghazout
+Morocco,Taghbalte
+Morocco,Taghjijt
+Morocco,Taghramt
+Morocco,Taghzirt
+Morocco,Taghzout
+Morocco,Taghzoute N'Ait Atta
+Morocco,Tagleft
+Morocco,Tagmout
+Morocco,Tagounite
+Morocco,Tah
+Morocco,Tahannaout
+Morocco,Tahelouante
+Morocco,Tahla
+Morocco,Taifa
+Morocco,Tainaste
+Morocco,Takate
+Morocco,Takoucht
+Morocco,Talambote
+Morocco,Talat N'Yaaqoub
+Morocco,Talgjount
+Morocco,Talilit
+Morocco,Taliouine
+Morocco,Taliouine Assaka
+Morocco,Talmakante
+Morocco,Talmest
+Morocco,Talsint
+Morocco,Talzemt
+Morocco,Tamadroust
+Morocco,Tamaguert
+Morocco,Tamallalt
+Morocco,Tamaloukte
+Morocco,Tamanar
+Morocco,Tamanarte
+Morocco,Tamazouzte
+Morocco,Tamchachate
+Morocco,Tamda
+Morocco,Tamda Noumercid
+Morocco,Tamedit
+Morocco,Tamegroute
+Morocco,Tameslohte
+Morocco,Tamezmoute
+Morocco,Tamorot
+Morocco,Tamri
+Morocco,Tamsaout
+Morocco,Tan-Tan
+Morocco,Tanalt
+Morocco,Tanant
+Morocco,Tanaqoub
+Morocco,Tancherfi
+Morocco,Tangarfa
+Morocco,Tanger-Medina
 Morocco,Tangier
+Morocco,Tanougha
+Morocco,Tanourdi
+Morocco,Tansifte
+Morocco,Taoughilt
+Morocco,Taouloukoult
+Morocco,Taounate
+Morocco,Taounza
 Morocco,Taourirt
+Morocco,Taouyalte
+Morocco,Taouzint
+Morocco,Tarfaya
+Morocco,Targa Wassay
+Morocco,Targante
+Morocco,Targua Ntouchka
+Morocco,Targuist
+Morocco,Tarmigt
+Morocco,Taroudannt
+Morocco,Tarsouat
+Morocco,Tassegdelt
+Morocco,Tassift
+Morocco,Tassoultante
+Morocco,Tassousfi
+Morocco,Tassrirt
+Morocco,Tata
+Morocco,Tataoute
+Morocco,Tatoft
 Morocco,Taza
+Morocco,Tazaghine
+Morocco,Tazarine
+Morocco,Tazart
+Morocco,Tazemmourt
+Morocco,Taznakht
+Morocco,Tazouta
+Morocco,Tazroute
+Morocco,Tekna
+Morocco,Telouet
 Morocco,Temara
+Morocco,Temsamane
+Morocco,Temsia
+Morocco,Tendrara
+Morocco,Ternata
+Morocco,Teroual
+Morocco,Tetouan
+Morocco,Thar Es-Souk
+Morocco,Tichla
+Morocco,Tiddas
+Morocco,Tidili Fetouaka
+Morocco,Tidili Mesfioua
+Morocco,Tidli
+Morocco,Tidsi Nissendalene
+Morocco,Tidzi
+Morocco,Tifariti
+Morocco,Tifarouine
+Morocco,Tiffert N'Ait Hamza
+Morocco,Tiflet
+Morocco,Tifni
+Morocco,Tighassaline
+Morocco,Tighedouine
+Morocco,Tighirt
+Morocco,Tighmi
+Morocco,Tiglit
+Morocco,Tigouga
+Morocco,Tigrigra
+Morocco,Tigzmerte
+Morocco,Tilemzoun
+Morocco,Tilmi
+Morocco,Tilougguite
+Morocco,Timahdite
+Morocco,Timezgadiouine
+Morocco,Timezgana
+Morocco,Timizguida Ouftas
+Morocco,Timlilt
+Morocco,Timoulay
+Morocco,Timoulilt
+Morocco,Tindine
+Morocco,Tinejdad
+Morocco,Tinghir
+Morocco,Tinzart
+Morocco,Tinzouline
+Morocco,Tioughza
+Morocco,Tiouli
+Morocco,Tiout
+Morocco,Tiqqi
+Morocco,Tisfane
+Morocco,Tisqi
+Morocco,Tisrasse
+Morocco,Tissa
+Morocco,Tissaf
+Morocco,Tissint
+Morocco,Tit Mellil
+Morocco,Tizaghte
+Morocco,Tizgane
+Morocco,Tizguine
+Morocco,Tizguite
+Morocco,Tizgzaouine
+Morocco,Tizi N'Ghachou
+Morocco,Tizi N'Isly
+Morocco,Tizi N'Test
+Morocco,Tizi Ntakoucht
+Morocco,Tizi Ouasli
+Morocco,Tiznit
+Morocco,Tizoughrane
+Morocco,Tizounine
+Morocco,Tiztoutine
+Morocco,Tlauh
+Morocco,Tlite
+Morocco,Tnine Aday
+Morocco,Tnine Aglou
+Morocco,Tnine Amellou
+Morocco,Toualet
+Morocco,Touama
+Morocco,Touarga
+Morocco,Toubkal
+Morocco,Toudgha El Oulia
+Morocco,Toudgha Essoufla
+Morocco,Toufelaazt
+Morocco,Toughmart
+Morocco,Touissit
+Morocco,Touizgui
+Morocco,Toulal
+Morocco,Toumliline
+Morocco,Toundoute
+Morocco,Tounfite
+Morocco,Traiba
+Morocco,Trougout
+Morocco,Tsaft
 Morocco,Tétouan
+Morocco,Yacoub El Mansour
+Morocco,Youssoufia
+Morocco,Zaaroura
+Morocco,Zag
+Morocco,Zaggota
+Morocco,Zagmouzen
+Morocco,Zagora
+Morocco,Zaida
+Morocco,Zaio
+Morocco,Zaitoune
+Morocco,Zaouia Annahlia
+Morocco,Zaouia Sidi Tahar
+Morocco,Zaouiat Ahansal
+Morocco,Zaouiat Ben Hmida
+Morocco,Zaouiat Cheikh
+Morocco,Zaouiat Lakouacem
+Morocco,Zaouiat Saiss
+Morocco,Zaouiat Sidi Abdelkader
+Morocco,Zaouiat Sidi Ben Hamdoun
+Morocco,Zaouiat Sidi Hamza
+Morocco,Zaouiat Sidi Kacem
+Morocco,Zarkt
+Morocco,Zeghanghane
+Morocco,Zegzel
+Morocco,Zemamra
+Morocco,Zemrane
+Morocco,Zemrane Charqia
+Morocco,Zerkten
+Morocco,Zghira
+Morocco,Ziaida
+Morocco,Zinat
+Morocco,Zirara
+Morocco,Znada
+Morocco,Zouada
+Morocco,Zouagha
+Morocco,Zoug
+Morocco,Zoumi
+Morocco,Zrarda
+Morocco,Zrizer
 Mozambique,Beira
 Mozambique,Chimoio
 Mozambique,Lichinga
@@ -14498,8 +17082,7 @@ Panama,Pedregal
 Panama,Penonomé
 Panama,Pesé
 Panama,Plaza de Caisán
-Panama,Pocrí (Coclé)
-Panama,Pocrí (Los Santos)
+Panama,Pocrí
 Panama,Portobello
 Panama,Potrerillos Abajo
 Panama,Potrerillos Arriba
@@ -21175,7 +23758,7 @@ South Africa,Petrusburg
 South Africa,Phalaborwa
 South Africa,Philippolis
 South Africa,Phuthaditjhaba
-South Africa,Piet Retief (town)Pietermaritzburg
+South Africa,Piet Retief
 South Africa,Pietermaritzburg
 South Africa,Piketberg
 South Africa,Pilgrim's Rest
@@ -21328,43 +23911,225 @@ South Africa,Zwelitsha
 South Africa,ekuPhakameni
 South Africa,uMkhomazi
 South Africa,uMthatha
+South Korea,Aesan
+South Korea,Amcheon
 South Korea,Andong
 South Korea,Ansan
 South Korea,Anyang
+South Korea,Baekjeon
+South Korea,Baekseok
+South Korea,Baeksong
+South Korea,Bangsong
+South Korea,Beolbang
+South Korea,Bogok
+South Korea,Bon
 South Korea,Bucheon
+South Korea,Bucho
+South Korea,Bugok
 South Korea,Busan
+South Korea,Changnyeong
 South Korea,Changwon
 South Korea,Cheonan
+South Korea,Cheongbok
+South Korea,Cheongdo
+South Korea,Cheonggok
 South Korea,Cheongju
+South Korea,Cheongun
+South Korea,Cheonhyang
+South Korea,Chohang
+South Korea,Chojeon
 South Korea,Chuncheon
 South Korea,Chungju
+South Korea,Daeeum
 South Korea,Daegu
+South Korea,Daehab
+South Korea,Daeje
 South Korea,Daejeon
+South Korea,Daeji
+South Korea,Daejuk
+South Korea,Daemaek
+South Korea,Daeshim
+South Korea,Damam
+South Korea,Deokgye
+South Korea,Deoksin
+South Korea,Deokyul
+South Korea,Docheon
+South Korea,Dohwa
+South Korea,Dojang
+South Korea,Dokyang
+South Korea,Dongbon
+South Korea,Dongsa
+South Korea,Dongsong
+South Korea,Donsan
+South Korea,Ducheon
+South Korea,Duseong
+South Korea,Eosin
 South Korea,Eujeongbu
+South Korea,Eunsan
+South Korea,Ga
+South Korea,Gagok
+South Korea,Gakbuk
+South Korea,Galgu
+South Korea,Galma
+South Korea,Ganbang
+South Korea,Gangnam
 South Korea,Gangneung
+South Korea,Gaya
+South Korea,Geumcheon
+South Korea,Geumgok
+South Korea,Geumnam
+South Korea,Geumneung
+South Korea,Gigok
+South Korea,Goam
+South Korea,Goedang
+South Korea,Gohang
+South Korea,Gongdak
+South Korea,Gopyeong
+South Korea,Gorim
+South Korea,Gosan
+South Korea,Gugye
 South Korea,Gumi
 South Korea,Gunsan
 South Korea,Guri
+South Korea,Gwangjeon
 South Korea,Gwangju
+South Korea,Gwanhyeon
+South Korea,Gyeongjin
 South Korea,Gyeongju
+South Korea,Hageumgok
+South Korea,Hahak
 South Korea,Hanam
+South Korea,Haneo
+South Korea,Hapung
+South Korea,Heungun
+South Korea,Heunhyo
+South Korea,Hwajeon
+South Korea,Hwangji
+South Korea,Hwangsan
+South Korea,Hwayang
+South Korea,Hyangseok
+South Korea,Hyeongho
+South Korea,Hyogal
+South Korea,Ibang
 South Korea,Iksan
 South Korea,Incheon
+South Korea,Ipap
+South Korea,Isa
+South Korea,Iseo
+South Korea,Jakgok
+South Korea,Jangma
+South Korea,Jangsan
+South Korea,Jangsong
+South Korea,Jegok
 South Korea,Jeju
 South Korea,Jeongeup
 South Korea,Jeonju
+South Korea,Jeunggeo
+South Korea,Jik
+South Korea,Jiksan
+South Korea,Jinae
+South Korea,Jinpyeong
+South Korea,Jipo
+South Korea,Jongsan
+South Korea,Jukan
+South Korea,Jukrim
+South Korea,Jungpyeong
+South Korea,Kilgok
 South Korea,Kimhae
+South Korea,Kyeseong
+South Korea,Macheon
+South Korea,Machon
+South Korea,Maechang
+South Korea,Maejeon
+South Korea,Majeon
+South Korea,Manhwa
+South Korea,Masan
+South Korea,Miseok
 South Korea,Mogpo
+South Korea,Mui
+South Korea,Muji
+South Korea,Myeongbong
+South Korea,Naeji
+South Korea,Naesin
+South Korea,Naksang
+South Korea,Nambon
+South Korea,Namji
+South Korea,Neungcheon
+South Korea,Nosa
+South Korea,Nosang
+South Korea,Nyeonnae
+South Korea,Oam
+South Korea,Ocheon
+South Korea,Okcheon
+South Korea,Oryu
 South Korea,Pohang
+South Korea,Punggak
+South Korea,Pungjeong
+South Korea,Pungsin
+South Korea,Sabon
+South Korea,Sabuk
+South Korea,Saengcheon
+South Korea,Sagok
+South Korea,Samgang
+South Korea,Sangdong
+South Korea,Sangwol
+South Korea,Sanhap
+South Korea,Sanseong
+South Korea,Santaek
 South Korea,Sejong City
+South Korea,Seokjeong
+South Korea,Seokmyo
+South Korea,Seon
+South Korea,Seonghyeon
 South Korea,Seongnam
+South Korea,Seongpyeong
+South Korea,Seongsan
 South Korea,Seoul
+South Korea,Seungbon
 South Korea,Shihung
+South Korea,Sihang
+South Korea,Sineum
+South Korea,Sinpung
+South Korea,Sinwol
+South Korea,Songam
+South Korea,Songgok
+South Korea,Songi
+South Korea,Songjeon
+South Korea,Songji
+South Korea,Songpyeong
+South Korea,Songwol
+South Korea,Sugye
+South Korea,Suhan
 South Korea,Suncheon
+South Korea,Susim
+South Korea,Suwol
 South Korea,Suwon
+South Korea,Tap
+South Korea,Tongmyeong
+South Korea,Ugam
+South Korea,Ugye
+South Korea,Uji
 South Korea,Ulsan
+South Korea,Unmun
+South Korea,Urae
+South Korea,Usin
+South Korea,Wangshin
+South Korea,Waryong
+South Korea,Wolpo
+South Korea,Wongok
 South Korea,Wonju
+South Korea,Wonryu
+South Korea,Woro
+South Korea,Yeoncheon
+South Korea,Yeongsan
 South Korea,Yeosu
+South Korea,Yongam
+South Korea,Yongdu
+South Korea,Yongsan
+South Korea,Yu
+South Korea,Yueo
+South Korea,Yulgok
+South Korea,Yulhyeon
 South Sudan,Juba
 South Sudan,Malakal
 South Sudan,Wau
@@ -21507,7 +24272,7 @@ Spain,Budia
 Spain,Buenache de Alarcón
 Spain,Buenache de la Sierra
 Spain,Buenaventura
-Spain,Buendía (municipality)Campillo de Altobuey
+Spain,Buendía
 Spain,Bujalaro
 Spain,Burgos
 Spain,Burguillos de Toledo
@@ -21525,6 +24290,7 @@ Spain,Calzada de Calatrava
 Spain,Calzada de Oropesa
 Spain,Camarena
 Spain,Camarenilla
+Spain,Campillo de Altobuey
 Spain,Campillo de Dueñas
 Spain,Campillo de Ranas
 Spain,Campillos-Paravientos
@@ -21579,8 +24345,9 @@ Spain,Cañada del Hoyo
 Spain,Cañamares
 Spain,Cañaveras
 Spain,Cañaveruelas
-Spain,Cañete (Cuenca)Cañizares
+Spain,Cañete
 Spain,Cañizar
+Spain,Cañizares
 Spain,Cebolla
 Spain,Cedillo del Condado
 Spain,Cendejas de Enmedio
@@ -21616,8 +24383,9 @@ Spain,Copernal
 Spain,Corduente
 Spain,Corral de Almaguer
 Spain,Corral de Calatrava
-Spain,Cuenca (Spain)Cueva del Hierro
+Spain,Cuenca
 Spain,Cuerva
+Spain,Cueva del Hierro
 Spain,Cádiz
 Spain,Córdoba
 Spain,Cózar
@@ -21690,7 +24458,8 @@ Spain,Fuentelsaz
 Spain,Fuentelviejo
 Spain,Fuentenava de Jábaga
 Spain,Fuentenovilla
-Spain,Fuentes (Cuenca)Fuertescusa
+Spain,Fuentes
+Spain,Fuertescusa
 Spain,Gabaldón
 Spain,Gajanejos
 Spain,Galve de Sorbe
@@ -21925,13 +24694,14 @@ Spain,Orea
 Spain,Orgaz
 Spain,Oropesa
 Spain,Osa de la Vega
-Spain,Otero (Spain)Palomeque
+Spain,Otero
 Spain,Ourense
 Spain,Oviedo
 Spain,Pajaroncillo
 Spain,Pajarón
 Spain,Palma de Mallorca
 Spain,Palomares del Campo
+Spain,Palomeque
 Spain,Palomera
 Spain,Pamplona
 Spain,Pantoja
@@ -22080,7 +24850,7 @@ Spain,Sonseca
 Spain,Sotillo de las Palomas
 Spain,Sotodosos
 Spain,Sotorribas
-Spain,Talavera de la Reina (Toledo)Tembleque
+Spain,Talavera de la Reina
 Spain,Talayuelas
 Spain,Tamajón
 Spain,Taragudo
@@ -22090,6 +24860,7 @@ Spain,Tarragona
 Spain,Tartanedo
 Spain,Tejadillos
 Spain,Telde
+Spain,Tembleque
 Spain,Tendilla
 Spain,Terrassa
 Spain,Terrinches
@@ -22102,7 +24873,7 @@ Spain,Tordellego
 Spain,Tordelrábano
 Spain,Tordesilos
 Spain,Torija
-Spain,Torralba (Cuenca)Torrejoncillo del Rey
+Spain,Torralba
 Spain,Torralba de Calatrava
 Spain,Torralba de Oropesa
 Spain,Torre de Juan Abad
@@ -22110,6 +24881,7 @@ Spain,Torre del Burgo
 Spain,Torrecilla de la Jara
 Spain,Torrecuadrada de Molina
 Spain,Torrecuadradilla
+Spain,Torrejoncillo del Rey
 Spain,Torrejón de Ardoz
 Spain,Torrejón del Rey
 Spain,Torremocha de Jadraque
@@ -22130,7 +24902,7 @@ Spain,Traíd
 Spain,Tresjuncos
 Spain,Tribaldos
 Spain,Trijueque
-Spain,Trillo (Guadalajara)
+Spain,Trillo
 Spain,Turleque
 Spain,Tébar
 Spain,Tórtola de Henares
@@ -25598,6 +28370,7 @@ Uruguay,Cañada del Pueblo
 Uruguay,Cebollatí
 Uruguay,Celeste
 Uruguay,Centenario
+Uruguay,Centurión
 Uruguay,Cerrillada
 Uruguay,Cerrillos
 Uruguay,Cerro Carmelo
@@ -25670,6 +28443,7 @@ Uruguay,El Bellaco
 Uruguay,El Bosque
 Uruguay,El Chorro
 Uruguay,El Edén
+Uruguay,El Ensueño
 Uruguay,El Eucaliptus
 Uruguay,El Faro
 Uruguay,El Galeón
@@ -25731,7 +28505,7 @@ Uruguay,Ituzaingó
 Uruguay,Jardines de Pando
 Uruguay,Jaureguiberry
 Uruguay,Javier de Viana
-Uruguay,Joaquín Suárez (town)Sauce
+Uruguay,Joaquín Suárez
 Uruguay,José Batlle y Ordoñez
 Uruguay,José Enrique Rodó
 Uruguay,José Pedro Varela
@@ -25776,7 +28550,7 @@ Uruguay,Lares
 Uruguay,Las Cañas
 Uruguay,Las Cumbres
 Uruguay,Las Flores
-Uruguay,Las Palmas (Durazno)
+Uruguay,Las Palmas
 Uruguay,Las Piedras
 Uruguay,Las Toscas
 Uruguay,Lascano
@@ -25874,7 +28648,7 @@ Uruguay,Pintado
 Uruguay,Pirarajá
 Uruguay,Piriápolis
 Uruguay,Piñera
-Uruguay,Playa Azul (Uruguay)El Ensueño
+Uruguay,Playa Azul
 Uruguay,Playa Britópolis
 Uruguay,Playa Fomento
 Uruguay,Playa Grande
@@ -25922,7 +28696,7 @@ Uruguay,Puntas de Valdez
 Uruguay,Puntas de Valentín
 Uruguay,Puntas del Parao
 Uruguay,Quebracho
-Uruguay,Quebracho (Cerro Largo)Centurión
+Uruguay,Quebracho
 Uruguay,Queguayar
 Uruguay,Quintana
 Uruguay,Quintas del Bosque
@@ -26024,7 +28798,7 @@ Uruguay,Villa Felicidad
 Uruguay,Villa General Borges
 Uruguay,Villa Hadita
 Uruguay,Villa María
-Uruguay,Villa María (Tiatucura)
+Uruguay,Villa María
 Uruguay,Villa Passano
 Uruguay,Villa Paz S.A.
 Uruguay,Villa Porvenir
