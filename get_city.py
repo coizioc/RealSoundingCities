@@ -66,7 +66,7 @@ def get_city():
     mashup_edition = ''
     if len(rand_countries) > 1:
         mashup_edition = 'Special Mashup Edition:\n'
-    tweet_str = f"{mashup_edition}{city_name}, {'-'.join(rand_countries)}"
+    tweet_str = mashup_edition + city_name + ', ' + '-'.join(rand_countries)
     return tweet_str
 
 
