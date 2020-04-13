@@ -3,7 +3,7 @@ from time import sleep
 import tweepy
 
 from config import auth
-from get_city import get_city
+from get_city_csv import get_city
 
 api = tweepy.API(auth)
 

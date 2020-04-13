@@ -1,2 +1,5 @@
 lists
 config.py
+*.csv
+.idea
+__pycache__
